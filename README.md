@@ -30,3 +30,10 @@ Name | Description
 [dotnet-script](https://github.com/filipw/dotnet-script) | Dotnet.Script allows you to run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/Dotnet.Script/)
 [dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
+
+### Experimental
+These packages are not yet available on NuGet.org.
+
+Name | Description
+-----|------------
+[dotnet-cake](https://github.com/cake-build/frosting) | A stand-alone .NET Core runner and host for Cake. [MyGet gallery](https://www.myget.org/gallery/cake)
