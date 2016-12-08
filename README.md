@@ -46,6 +46,7 @@ Name | Description
 [dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
 [dotnet-transform-xdt](https://github.com/nil4/dotnet-transform-xdt) | XDT (XML Document Transform) publish tool for transforming XML files at publishing time. [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Xdt.Tools)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
+[dotnet-web-compile](https://github.com/sgjsakura/DotNetCore-WebCompiler) | A tool to compile client web files (e.g. SCSS, TS, etc). [NuGet](https://www.nuget.org/packages/Sakura.AspNetCore.Tools.WebCompiler/)
 
 ### Experimental
 These tools are not yet available on NuGet.org.
