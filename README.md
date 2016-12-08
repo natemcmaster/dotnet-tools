@@ -7,6 +7,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI).
 Name | Author | Description
 -----|--------|--------------
 [dotnet-ef](https://github.com/aspnet/EntityFramework.Tools) | Microsoft | Tools for Entity Framework Core [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools.DotNet/)
+[dotnet-compile-php](https://github.com/iolevel/peachpie) | iolevel | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
 [dotnet-lambda](https://github.com/aws/aws-lambda-dotnet) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
 [dotnet-sql-cache](https://github.com/aspnet/DotNetTools) | Microsoft | Initializes a MSSQL database with tables for use with Microsoft.Extensions.Caching.SqlServer. [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.Caching.SqlConfig.Tools)
 [dotnet-user-secrets](https://github.com/aspnet/DotNetTools) | Microsoft | Tool for adding, removing and changing user secrets for use with Microsoft.Extensions.Configuration.UserSecrets [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.SecretManager.Tools)
