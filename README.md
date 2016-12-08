@@ -28,4 +28,5 @@ Name | Description
 [dotnet-prop](https://github.com/simonech/dotnet-prop) | dotnet-cli tool for managing properties in netcore projects based on MSBuild. [NuGet](https://www.nuget.org/packages/dotnet-prop)
 [dotnet-publish-ssh](https://github.com/albekov/dotnet-publish-ssh) | DotnetPublishSsh is a a tool to publish your .NET Core application to Linux server via SSH. [NuGet](https://www.nuget.org/packages/DotnetPublishSsh/)
 [dotnet-script](https://github.com/filipw/dotnet-script) | Dotnet.Script allows you to run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/Dotnet.Script/)
+[dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
