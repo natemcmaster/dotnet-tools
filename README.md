@@ -26,6 +26,8 @@ Name | Description
 [dotnet-gen](https://github.com/Muchiachio/Genny) | A code generator for dotnet projects [NuGet](https://www.nuget.org/packages/Genny/)
 [dotnet-gitversion](https://github.com/nakioman/gitversioncore-tools) | Uses conventions to derive a SemVer product version from a GitFlow or GitHub based repository. [NuGet](https://www.nuget.org/packages/GitVersion.Tools/)
 [dotnet-globwatch](https://github.com/mdschweda/globwatch) | GlobWatch is a .NET Core file system watcher that runs commands on changes. [NuGet](https://www.nuget.org/packages/GlobWatch/)
+[dotnet-gplex](https://github.com/Oleg1cqa/gplex) | Tools for dotnet core based on Gardens Point LEX version 1.2.2 [NuGet](https://www.nuget.org/packages/StarodubOleg.GPLEX)
+[dotnet-gppg](https://github.com/Oleg1cqa/gppg) | Adaptation of Gardens Point Parser Generator version 1.5.2 for dotnet core [NuGet](https://www.nuget.org/packages/StarodubOleg.GPPG/)
 [dotnet-imgopt](https://github.com/anuraj/ImageOptimize) | ImageOptimize is a tool for image optimization. [NuGet](https://www.nuget.org/packages/imageoptimize/)
 [dotnet-outdated](https://github.com/goenning/dotnet-outdated) | DotNetOutdated is a tool to check for outdated .NET Core dependencies. [NuGet](https://www.nuget.org/packages/DotNetOutdated/)
 [dotnet-project-version](https://github.com/rwasef1830/ProjectVersioning.DotNet.Cli) | ProjectVersioning.DotNet.Cli is a project version generator tool [NuGet](https://www.nuget.org/packages/ProjectVersioning.DotNet.Cli/)
