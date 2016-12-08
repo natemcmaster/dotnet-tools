@@ -19,5 +19,6 @@ Name | Description
 [dotnet-clean](https://github.com/tsolarin/dotnet-clean) | DotNet.Cleaner.Tools is a tool for cleaning projects [NuGet](https://nuget.org/packages/DotNet.Cleaner.Tools)
 [dotnet-globwatch](https://github.com/mdschweda/globwatch) | GlobWatch is a .NET Core file system watcher that runs commands on changes. [NuGet](https://www.nuget.org/packages/GlobWatch/)
 [dotnet-imgopt](https://github.com/anuraj/ImageOptimize) | ImageOptimize is a tool for image optimization. [NuGet](https://www.nuget.org/packages/imageoptimize/)
+[dotnet-outdated](https://github.com/goenning/dotnet-outdated) | DotNetOutdated is a tool to check for outdated .NET Core dependencies. [NuGet](https://www.nuget.org/packages/DotNetOutdated/)
 [dotnet-prop](https://github.com/simonech/dotnet-prop) | dotnet-cli tool for managing properties in netcore projects based on MSBuild. [NuGet](https://www.nuget.org/packages/dotnet-prop)
 [dotnet-script](https://github.com/filipw/dotnet-script) | Dotnet.Script allows you to run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/Dotnet.Script/)
