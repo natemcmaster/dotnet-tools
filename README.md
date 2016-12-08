@@ -9,6 +9,7 @@ Name | Author | Description
 -----|--------|--------------
 [dotnet-ef](https://github.com/aspnet/EntityFramework.Tools) | Microsoft | Tools for Entity Framework Core [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools.DotNet/)
 [dotnet-compile-php](https://github.com/iolevel/peachpie) | iolevel | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
+[dotnet-git-commit-hash](https://github.com/bitcraftCoLtd/GitCommitHash) | bitcraft Co., Ltd. | Tool that generates a C# source code file making the latest git commit hash available at runtime. [NuGet](https://www.nuget.org/packages/Bitcraft.Tools.GitCommitHash/)
 [dotnet-lambda](https://github.com/aws/aws-lambda-dotnet) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
 [dotnet-nanopack](https://github.com/OctopusDeploy/NanoPack) | OctopusDeploy | A tool to package ASP.NET Core applications into a NanoServer VHD. [NuGet](https://www.nuget.org/packages/NanoPack/)
 [dotnet-proto](https://github.com/WhereIsMyTransport/dotnetcli-proto-tool) | WhereIsMyTransport | A tool to assist with compiling and versioning Google Protobuf schema files. [NuGet](https://www.nuget.org/packages/WhereIsMyTransport.Protobuf.Tools.Dotnet/)
