@@ -18,6 +18,7 @@ Name | Description
 -----|------------
 [dotnet-bundle](https://github.com/madskristensen/BundlerMinifier) | BundlerMinifier.Core let's you configure bundling and minification of JS, CSS and HTML files. [NuGet](https://www.nuget.org/packages/BundlerMinifier)
 [dotnet-clean](https://github.com/tsolarin/dotnet-clean) | DotNet.Cleaner.Tools is a tool for cleaning projects [NuGet](https://nuget.org/packages/DotNet.Cleaner.Tools)
+[dotnet-dbupdate](https://github.com/prayzzz/UniversalDbUpdater) | A tool for managing scripts to backup and update MySQL and MSSQL databases [NuGet](https://www.nuget.org/packages/UniversalDbUpdater/)
 [dotnet-docxml2md](https://github.com/Chida82/docxml2md) | A tool to converter .NET XML documentation into Markdown [NuGet](https://www.nuget.org/packages/docxml2md/)
 [dotnet-fb](https://github.com/mczachurski/FluentBehave)  | FluentBahave is a simple framework to generate C# code base on Gherkin feature files. [NuGet](https://www.nuget.org/packages/FluentBehave.Tools)
 [dotnet-gen](https://github.com/Muchiachio/Genny) | A code generator for dotnet projects [NuGet](https://www.nuget.org/packages/Genny/)
