@@ -16,6 +16,7 @@ Name | Author | Description
 [dotnet-sql-cache](https://github.com/aspnet/DotNetTools) | Microsoft | Initializes a MSSQL database with tables for use with Microsoft.Extensions.Caching.SqlServer. [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.Caching.SqlConfig.Tools)
 [dotnet-user-secrets](https://github.com/aspnet/DotNetTools) | Microsoft | Tool for adding, removing and changing user secrets for use with Microsoft.Extensions.Configuration.UserSecrets [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.SecretManager.Tools)
 [dotnet-watch](https://github.com/aspnet/DotNetTools) | Microsoft | A .NET Core file watcher that triggers dotnet commands when a project or its files change [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Watcher.Tools)
+[dotnet-xunit](https://github.com/xunit/xunit) | Xunit | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
 
 ### Community
 Tools created by community members.
