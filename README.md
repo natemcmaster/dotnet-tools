@@ -61,3 +61,11 @@ Name | Description
 -----|------------
 [dotnet-cake](https://github.com/cake-build/frosting) | A stand-alone .NET Core runner and host for Cake. [MyGet gallery](https://www.myget.org/gallery/cake)
 [dotnet-st](https://github.com/storyteller/Storyteller) | Storyteller is a tool for crafting executable specifications. *(Requires manual installation but is available on [NuGet](https://www.nuget.org/packages/Storyteller/)).*
+
+## Wanted
+These are tools that either exists in other ecosystems or are utilities that are in high demand that the community should consider building.
+
+Description|node.js version|golang version|python version|other lang
+-----------|---------------|--------------|--------------|----------
+Determine out of date Nuget packages| [david](https://www.npmjs.com/package/david)
+Give thanks to the open source maintainers you depend on| [thanks](https://www.npmjs.com/package/thanks)
