@@ -2,21 +2,42 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI).
 
+## Global CLI tools
+
+These tools can be installed by executing
+
+    dotnet tool install -g <package id>
+
+Name | Author | Description
+-----|--------|--------------
+[dotnet-search](https://github.com/billpratt/dotnet-search) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
+[dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
+
+## Project-only tools
+
+These tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file.
+
 ### Official
 Tools created by companies and organizations.
 
 Name | Author | Description
 -----|--------|--------------
-[dotnet-ef](https://github.com/aspnet/EntityFramework.Tools) | Microsoft | Tools for Entity Framework Core [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools.DotNet/)
 [dotnet-compile-php](https://github.com/iolevel/peachpie) | iolevel | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
 [dotnet-git-commit-hash](https://github.com/bitcraftCoLtd/GitCommitHash) | bitcraft Co., Ltd. | Tool that generates a C# source code file making the latest git commit hash available at runtime. [NuGet](https://www.nuget.org/packages/Bitcraft.Tools.GitCommitHash/)
 [dotnet-lambda](https://github.com/aws/aws-lambda-dotnet) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
 [dotnet-nanopack](https://github.com/OctopusDeploy/NanoPack) | OctopusDeploy | A tool to package ASP.NET Core applications into a NanoServer VHD. [NuGet](https://www.nuget.org/packages/NanoPack/)
 [dotnet-proto](https://github.com/WhereIsMyTransport/dotnetcli-proto-tool) | WhereIsMyTransport | A tool to assist with compiling and versioning Google Protobuf schema files. [NuGet](https://www.nuget.org/packages/WhereIsMyTransport.Protobuf.Tools.Dotnet/)
+[dotnet-xunit](https://github.com/xunit/xunit) | Xunit | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
+
+**Special mention**
+These tools area available as packages for .NET Core CLI 1.x or 2.0. In the 2.1 CLI, these were made part of the CLI and do not need to be specially installed. See <https://github.com/aspnet/Announcements/issues/290>.
+
+Name | Author | Description
+-----|--------|--------------
+[dotnet-ef](https://github.com/aspnet/EntityFramework.Tools) | Microsoft | Tools for Entity Framework Core [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools.DotNet/)
 [dotnet-sql-cache](https://github.com/aspnet/DotNetTools) | Microsoft | Initializes a MSSQL database with tables for use with Microsoft.Extensions.Caching.SqlServer. [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.Caching.SqlConfig.Tools)
 [dotnet-user-secrets](https://github.com/aspnet/DotNetTools) | Microsoft | Tool for adding, removing and changing user secrets for use with Microsoft.Extensions.Configuration.UserSecrets [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.SecretManager.Tools)
 [dotnet-watch](https://github.com/aspnet/DotNetTools) | Microsoft | A .NET Core file watcher that triggers dotnet commands when a project or its files change [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Watcher.Tools)
-[dotnet-xunit](https://github.com/xunit/xunit) | Xunit | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
 
 ### Community
 Tools created by community members.
@@ -46,8 +67,6 @@ Name | Description
 [dotnet-prop](https://github.com/simonech/dotnet-prop) | dotnet-cli tool for managing properties in netcore projects based on MSBuild. [NuGet](https://www.nuget.org/packages/dotnet-prop)
 [dotnet-publish-ssh](https://github.com/albekov/dotnet-publish-ssh) | DotnetPublishSsh is a a tool to publish your .NET Core application to Linux server via SSH. [NuGet](https://www.nuget.org/packages/DotnetPublishSsh/)
 [dotnet-script](https://github.com/filipw/dotnet-script) | Dotnet.Script allows you to run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/Dotnet.Script/)
-[dotnet-search](https://github.com/billpratt/dotnet-search) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
-[dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
 [dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
 [dotnet-transform-xdt](https://github.com/nil4/dotnet-transform-xdt) | XDT (XML Document Transform) publish tool for transforming XML files at publishing time. [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Xdt.Tools)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
