@@ -2,7 +2,7 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI).
 
-## Global CLI tools
+## DotNet tools (aka global tools)
 
 These tools can be installed by executing
 
@@ -10,10 +10,10 @@ These tools can be installed by executing
 
 Name | Author | Description
 -----|--------|--------------
-[dotnet-search](https://github.com/billpratt/dotnet-search) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
-[dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
+[dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
+[dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
 
-## Project-only tools
+## DotNetCliToolRef tools (aka project-only tools)
 
 These tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file.
 
