@@ -12,6 +12,7 @@ Name | Author | Description
 -----|--------|--------------
 [dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
+[dotnet-doc](https://github.com/spboyer) | [@spboyer](https://guthub.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line.
 
 ## DotNetCliToolRef tools (aka project-only tools)
 
