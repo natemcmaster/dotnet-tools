@@ -12,12 +12,14 @@ Name | Author | Description
 -----|--------|--------------
 [dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
+[dotnet-doc](https://github.com/spboyer) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line.
 
 ## DotNetCliToolRef tools (aka project-only tools)
 
 These tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file.
 
 ### Official
+
 Tools created by companies and organizations.
 
 Name | Author | Description
@@ -40,6 +42,7 @@ Name | Author | Description
 [dotnet-watch](https://github.com/aspnet/DotNetTools) | Microsoft | A .NET Core file watcher that triggers dotnet commands when a project or its files change [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Watcher.Tools)
 
 ### Community
+
 Tools created by community members.
 
 Name | Description
@@ -75,6 +78,7 @@ Name | Description
 [dotnet-web-compile](https://github.com/sgjsakura/DotNetCore-WebCompiler) | A tool to compile client web files (e.g. SCSS, TS, etc). [NuGet](https://www.nuget.org/packages/Sakura.AspNetCore.Tools.WebCompiler/)
 
 ### Experimental
+
 These tools are not yet available on NuGet.org.
 
 Name | Description
@@ -83,6 +87,7 @@ Name | Description
 [dotnet-st](https://github.com/storyteller/Storyteller) | Storyteller is a tool for crafting executable specifications. *(Requires manual installation but is available on [NuGet](https://www.nuget.org/packages/Storyteller/)).*
 
 ## Wanted
+
 These are tools that either exists in other ecosystems or are utilities that are in high demand that the community should consider building.
 
 Description|node.js version|golang version|python version|other lang
