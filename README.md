@@ -14,6 +14,7 @@ Name | Author | Description
 [dotnet-doc](https://github.com/spboyer) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line. [NuGet](https://www.nuget.org/packages/dotnet-doc/)
 [dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
+[github-issues-cli](https://github.com/jerriep/github-issues-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues. [NuGet](https://www.nuget.org/packages/github-issues-cli/)
 [protogen](https://github.com/mgravell/protobuf-net) | [@mgravell](https://github.com/mgravell) | protobuf-net code-generation from .proto schema files
 [sleet](https://github.com/emgarten/Sleet) | [@emgarten](https://github.com/emgarten) | A static NuGet feed generator.  [NuGet](https://www.nuget.org/packages/Sleet/)
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
