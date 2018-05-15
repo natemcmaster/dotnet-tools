@@ -18,6 +18,7 @@ Name | Author | Description
 [github-issues-cli](https://github.com/jerriep/github-issues-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues. [NuGet](https://www.nuget.org/packages/github-issues-cli/)
 [protogen](https://github.com/mgravell/protobuf-net) | [@mgravell](https://github.com/mgravell) | protobuf-net code-generation from .proto schema files
 [sleet](https://github.com/emgarten/Sleet) | [@emgarten](https://github.com/emgarten) | A static NuGet feed generator.  [NuGet](https://www.nuget.org/packages/Sleet/)
+[srihash-cli](https://github.com/natemcmaster/srihash-cli) | [@natemcmaster](https://github.com/natemcmaster) | Generates the SRI hash for `<script>` tags in browsers [NuGet](https://nuget.org/packages/srihash-cli)
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
 
 
