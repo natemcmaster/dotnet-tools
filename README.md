@@ -12,6 +12,7 @@ Name | Author | Description
 -----|--------|--------------
 [certes](https://github.com/fszlin/certes) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org)
 [dotnet-doc](https://github.com/spboyer) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line. [NuGet](https://www.nuget.org/packages/dotnet-doc/)
+[dotnet-outdated](https://github.com/jerriep/dotnet-outdated) | [@jerriep](https://github.com/jerriep) | A .NET Core global tool to display outdated NuGet packages in a project. [NuGet](https://www.nuget.org/packages/dotnet-outdated/)
 [dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
 [git-status-cli](https://github.com/jerriep/git-status-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line utility to determine status of all Git repositories in a directory structure. [NuGet](https://www.nuget.org/packages/git-status-cli/)
@@ -100,5 +101,4 @@ These are tools that either exists in other ecosystems or are utilities that are
 
 Description|node.js version|golang version|python version|other lang
 -----------|---------------|--------------|--------------|----------
-Determine out of date Nuget packages| [david](https://www.npmjs.com/package/david)
 Give thanks to the open source maintainers you depend on| [thanks](https://www.npmjs.com/package/thanks)
