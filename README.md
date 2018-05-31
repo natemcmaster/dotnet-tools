@@ -24,6 +24,7 @@ Name | Author | Description
 [sleet](https://github.com/emgarten/Sleet) | [@emgarten](https://github.com/emgarten) | A static NuGet feed generator.  [NuGet](https://www.nuget.org/packages/Sleet/)
 [srihash-cli](https://github.com/natemcmaster/srihash-cli) | [@natemcmaster](https://github.com/natemcmaster) | Generates the SRI hash for `<script>` tags in browsers [NuGet](https://nuget.org/packages/srihash-cli)
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
+[dotnetrsa](https://github.com/stulzq/DotnetRSA) | [@stulzq](https://github.com/stulzq) | Generate rsa pkcs1, pkcs8, xml format key. Conversion between the three formats. [NuGet](https://www.nuget.org/packages/dotnetrsa)
 
 
 ## DotNetCliToolRef tools (aka project-only tools)
