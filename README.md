@@ -7,6 +7,8 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI).
 These tools can be installed by executing
 
     dotnet tool install -g <package id>
+    
+> Pro-tip: global tools do not need to be named "dotnet-\*". This is only a convention used some authors as a way to indicate a package is meant to be a command line tool, and not a normal library reference.
 
 Name | Author | Description
 -----|--------|--------------
