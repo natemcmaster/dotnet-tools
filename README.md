@@ -10,7 +10,7 @@ These tools can be installed by executing
 
 Name | Author | Description
 -----|--------|--------------
-[certes](https://github.com/fszlin/certes) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org)
+[dotnet-certes](https://github.com/fszlin/certes) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org) [NuGet](https://www.nuget.org/packages/dotnet-certes/)
 [dotnet-doc](https://github.com/spboyer) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line. [NuGet](https://www.nuget.org/packages/dotnet-doc/)
 [dotnet-outdated](https://github.com/jerriep/dotnet-outdated) | [@jerriep](https://github.com/jerriep) | A .NET Core global tool to display outdated NuGet packages in a project. [NuGet](https://www.nuget.org/packages/dotnet-outdated/)
 [NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper) | [@AnthonySteele](https://github.com/anthonysteele) | Find outdated NuGet packages and apply updates to them. [NuGet](https://www.nuget.org/packages/NuKeeper)
