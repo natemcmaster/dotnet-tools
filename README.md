@@ -7,7 +7,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI).
 These tools can be installed by executing
 
     dotnet tool install -g <package id>
-    
+
 > Pro-tip: global tools do not need to be named "dotnet-\*". This is only a convention used some authors as a way to indicate a package is meant to be a command line tool, and not a normal library reference.
 
 Name | Author | Description
@@ -27,6 +27,7 @@ Name | Author | Description
 [dotnet-search](https://github.com/billpratt/dotnet-search) | [@billpratt](https://github.com/billpratt) | Search for Nuget packages using the .NET Core CLI. [NuGet](https://www.nuget.org/packages/dotnet-search/)
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
 [dotnet-script](https://github.com/filipw/dotnet-script) | [@filipw](https://github.com/filipw) [@seesharper](https://github.com/seesharper) | Run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/dotnet-script/)
+[dotnet-xdt](https://github.com/nil4/dotnet-transform-xdt) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. [NuGet](https://www.nuget.org/packages/dotnet-xdt/)
 
 
 ## DotNetCliToolRef tools (aka project-only tools)
