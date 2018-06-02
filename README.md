@@ -41,7 +41,9 @@ Name | Author | Description
 -----|--------|--------------
 [dotnet-compile-php](https://github.com/iolevel/peachpie) | iolevel | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
 [dotnet-git-commit-hash](https://github.com/bitcraftCoLtd/GitCommitHash) | bitcraft Co., Ltd. | Tool that generates a C# source code file making the latest git commit hash available at runtime. [NuGet](https://www.nuget.org/packages/Bitcraft.Tools.GitCommitHash/)
-[dotnet-lambda](https://github.com/aws/aws-lambda-dotnet) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
+[dotnet-lambda](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
+[dotnet-ecs](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy containers to Amazon Elastic Container Service functions. [NuGet](https://www.nuget.org/packages/Amazon.ECS.Tools)
+[dotnet-eb](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy ASP.NET Core apps to AWS Elastic Beanstalk. [NuGet](https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools)
 [dotnet-nanopack](https://github.com/OctopusDeploy/NanoPack) | OctopusDeploy | A tool to package ASP.NET Core applications into a NanoServer VHD. [NuGet](https://www.nuget.org/packages/NanoPack/)
 [dotnet-proto](https://github.com/WhereIsMyTransport/dotnetcli-proto-tool) | WhereIsMyTransport | A tool to assist with compiling and versioning Google Protobuf schema files. [NuGet](https://www.nuget.org/packages/WhereIsMyTransport.Protobuf.Tools.Dotnet/)
 [dotnet-xunit](https://github.com/xunit/xunit) | Xunit | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
