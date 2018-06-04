@@ -28,6 +28,7 @@ Name | Author | Description
 [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required. [NuGet](https://www.nuget.org/packages/dotnet-serve/)
 [dotnet-script](https://github.com/filipw/dotnet-script) | [@filipw](https://github.com/filipw) [@seesharper](https://github.com/seesharper) | Run C# scripts from the .NET CLI. [NuGet](https://www.nuget.org/packages/dotnet-script/)
 [dotnet-xdt](https://github.com/nil4/dotnet-transform-xdt) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. [NuGet](https://www.nuget.org/packages/dotnet-xdt/)
+[nyancat](https://github.com/nickvdyck/nyancat.cs) | [@nickvdyck](https://github.com/nickvdyck) | Nyancat 😻 in your terminal, rendered through ANSI escape sequences. A port of the orignal terminal application to make this cat run on dotnet core. 🐱‍🏍 [Nuget](https://www.nuget.org/packages/nyancat/)
 
 
 ## DotNetCliToolRef tools (aka project-only tools)
