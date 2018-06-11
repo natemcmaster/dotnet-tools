@@ -18,6 +18,7 @@ Name | Author | Description
 [dotnet-doc](https://github.com/spboyer/dotnet-doc) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line. [NuGet](https://www.nuget.org/packages/dotnet-doc/)
 [git-status-cli](https://github.com/jerriep/git-status-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line utility to determine status of all Git repositories in a directory structure. [NuGet](https://www.nuget.org/packages/git-status-cli/)
 [github-issues-cli](https://github.com/jerriep/github-issues-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues. [NuGet](https://www.nuget.org/packages/github-issues-cli/)
+[dotnet-ignore](https://github.com/Arasz/dotnet-ignore) | [@Arasz](https://github.com/Arasz) | Global .NET Core tool that can download .gitignore file from github gitignore repository. [NuGet](https://www.nuget.org/packages/dotnet-ignore/1.0.3)
 [localappveyor](https://github.com/joaope/localappveyor) | [@joaope](https://github.com/joaope) | .NET Core global tool which brings appveyor.yml to the center of your build process by making possible to execute its build jobs, locally.
 [dotnet-md5](https://github.com/Rwing/Dotnet.Tool.MD5) | [@Rwing](https://github.com/Rwing) | Just generate MD5 hash value in CLI. [NuGet](https://www.nuget.org/packages/dmd5)
 [nuke](https://github.com/nuke-build/nuke) | [@nuke-build](https://github.com/nuke-build) | Run and setup NUKE builds with a single command on any platform :rocket: [NuGet](https://www.nuget.org/packages/Nuke.GlobalTool)
@@ -33,7 +34,6 @@ Name | Author | Description
 [srihash-cli](https://github.com/natemcmaster/srihash-cli) | [@natemcmaster](https://github.com/natemcmaster) | Generates the SRI hash for `<script>` tags in browsers [NuGet](https://nuget.org/packages/srihash-cli)
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
 [dotnet-xdt](https://github.com/nil4/dotnet-transform-xdt) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. [NuGet](https://www.nuget.org/packages/dotnet-xdt/)
-[dotnet-ignore](https://github.com/Arasz/dotnet-ignore) | [@Arasz](https://github.com/Arasz) | Global .NET Core tool that can download .gitignore file from github gitignore repository. [NuGet](https://www.nuget.org/packages/dotnet-ignore/1.0.3)
 
 ## DotNetCliToolRef tools (aka project-only tools)
 
