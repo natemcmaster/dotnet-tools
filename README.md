@@ -35,6 +35,8 @@ Name | Author | Description
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
 [dotnet-xdt](https://github.com/nil4/dotnet-transform-xdt) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. [NuGet](https://www.nuget.org/packages/dotnet-xdt/)
 
+<!-- CONTRIBUTORS: please add to the list alphabetically, ignoring the `dotnet-` prefix. -->
+
 ## DotNetCliToolRef tools (aka project-only tools)
 
 These tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file.
