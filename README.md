@@ -15,6 +15,7 @@ These tools can be installed by executing
 Name | Author | Description
 -----|--------|--------------
 [dotnet-certes](https://github.com/fszlin/certes) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org) [NuGet](https://www.nuget.org/packages/dotnet-certes/)
+[dotnet-dbinfo](https://github.com/berkid89/dotnet-dbinfo) | [@berkid89](https://github.com/berkid89) | A simple cross-platform command-line tool for get useful database information (in json format). [NuGet](https://www.nuget.org/packages/dotnet-dbinfo/)
 [dotnet-doc](https://github.com/spboyer/dotnet-doc) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line. [NuGet](https://www.nuget.org/packages/dotnet-doc/)
 [git-status-cli](https://github.com/jerriep/git-status-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line utility to determine status of all Git repositories in a directory structure. [NuGet](https://www.nuget.org/packages/git-status-cli/)
 [github-issues-cli](https://github.com/jerriep/github-issues-cli) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues. [NuGet](https://www.nuget.org/packages/github-issues-cli/)
