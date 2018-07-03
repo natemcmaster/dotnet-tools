@@ -37,6 +37,7 @@ Name | Author | Description
 [srihash-cli](https://github.com/natemcmaster/srihash-cli) | [@natemcmaster](https://github.com/natemcmaster) | Generates the SRI hash for `<script>` tags in browsers [NuGet](https://nuget.org/packages/srihash-cli)
 [weeknumber](https://github.com/MarkusLund/weeknumber) | [@MarkusLund](https://github.com/MarkusLund) | Prints the current weeknumber to the command line. [NuGet](https://nuget.org/packages/weeknumber/)
 [dotnet-xdt](https://github.com/nil4/dotnet-transform-xdt) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. [NuGet](https://www.nuget.org/packages/dotnet-xdt/)
+[dotnet-xscgen](https://github.com/mganss/XmlSchemaClassGenerator) | [@mganss](https://github.com/mganss) | Generate XmlSerializer compatible C# classes from XML Schema files. [NuGet](https://www.nuget.org/packages/dotnet-xscgen/)
 
 <!-- CONTRIBUTORS: please add to the list alphabetically, ignoring the `dotnet-` prefix. -->
 
