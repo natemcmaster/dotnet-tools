@@ -14,7 +14,7 @@ These tools can be installed by executing
 
 Name | Author | Description
 -----|--------|--------------
-[aspnet-codegenerator](https://github.com/aspnet/Tooling/issues/1075)| [@AngelosP](https://github.com/AngelosP)  | Code Generation tool for ASP.NET Core. Contains the dotnet-aspnet-codegenerator command used for generating controllers and views. [NuGet](https://www.nuget.org/packages/dotnet-aspnet-codegenerator/)
+[dotnet-aspnet-codegenerator](https://github.com/aspnet/Scaffolding)| [@AngelosP](https://github.com/AngelosP)  | Code Generation tool for ASP.NET Core. Contains the dotnet-aspnet-codegenerator command used for generating controllers and views. [NuGet](https://www.nuget.org/packages/dotnet-aspnet-codegenerator/)
 [dotnet-certes](https://github.com/fszlin/certes) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org) [NuGet](https://www.nuget.org/packages/dotnet-certes/)
 [cowsay](https://github.com/isaac2004/dotnet-cowsay/) | [@isaac2004](https://github.com/isaac2004) |CLI Tool that gives a a random blog post from discoverdot.net in cowsay format. [NuGet](https://www.nuget.org/packages/dotnet-cowsay/)
 [dotnet-dbinfo](https://github.com/berkid89/dotnet-dbinfo) | [@berkid89](https://github.com/berkid89) | A simple cross-platform command-line tool for get useful database information (in json format). [NuGet](https://www.nuget.org/packages/dotnet-dbinfo/)
