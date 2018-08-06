@@ -83,6 +83,7 @@ Tools created by community members.
 
 Name | Description
 -----|------------
+[dotnet-aop](https://github.com/ignatandrei/AOP_With_Roslyn)| A tool to make AOP for .cs files for your CI pipeline  . [NuGet](https://www.nuget.org/packages/dotnet-aop)
 [dotnet-autover](https://github.com/f14shm4n/f14.AutoVersion) | A tool to auto update build version for your project. [NuGet](https://www.nuget.org/packages/f14.AutoVersion)
 [dotnet-bolt](https://github.com/justkao/Bolt) | Tools for Bolt, a lean and lightweight WCF alternative library based on ASP.NET Core. [NuGet](https://www.nuget.org/packages/Bolt.Tools/)
 [dotnet-bundle](https://github.com/madskristensen/BundlerMinifier) | BundlerMinifier.Core let's you configure bundling and minification of JS, CSS and HTML files. [NuGet](https://www.nuget.org/packages/BundlerMinifier)
