@@ -2,13 +2,13 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI).
 
-## DotNet tools (aka global tools)
-
 These tools can be installed by executing
 
     dotnet tool install -g <package id>
 
 > Pro-tip: global tools do not need to be named "dotnet-*". This is only a convention used some authors as a way to indicate a package is meant to be a command line tool, and not a normal library reference.
+
+The CLI also supports an older format called "project tools" or `<DotNetCliToolReference>`. A list of project tools is [available here](./project-tools.md).
 
 <!-- CONTRIBUTORS: please add to the list alphabetically, ignoring the `dotnet-` prefix. -->
 
@@ -49,84 +49,6 @@ Name | Author | Description
 [dotnet-xscgen](https://github.com/mganss/XmlSchemaClassGenerator) | [@mganss](https://github.com/mganss) | Generate XmlSerializer compatible C# classes from XML Schema files. [NuGet](https://www.nuget.org/packages/dotnet-xscgen/)
 
 <!-- CONTRIBUTORS: please add to the list alphabetically, ignoring the `dotnet-` prefix. -->
-
-## DotNetCliToolRef tools (aka project-only tools)
-
-These tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file.
-
-### Official
-
-Tools created by companies and organizations.
-
-Name | Author | Description
------|--------|--------------
-[dotnet-compile-php](https://github.com/iolevel/peachpie) | iolevel | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
-[dotnet-git-commit-hash](https://github.com/bitcraftCoLtd/GitCommitHash) | bitcraft Co., Ltd. | Tool that generates a C# source code file making the latest git commit hash available at runtime. [NuGet](https://www.nuget.org/packages/Bitcraft.Tools.GitCommitHash/)
-[dotnet-lambda](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy AWS Lambda functions. [NuGet](https://www.nuget.org/packages/Amazon.Lambda.Tools)
-[dotnet-ecs](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy containers to Amazon Elastic Container Service functions. [NuGet](https://www.nuget.org/packages/Amazon.ECS.Tools)
-[dotnet-eb](https://github.com/aws/aws-extensions-for-dotnet-cli) | Amazon | Tools to deploy ASP.NET Core apps to AWS Elastic Beanstalk. [NuGet](https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools)
-[dotnet-nanopack](https://github.com/OctopusDeploy/NanoPack) | OctopusDeploy | A tool to package ASP.NET Core applications into a NanoServer VHD. [NuGet](https://www.nuget.org/packages/NanoPack/)
-[dotnet-proto](https://github.com/WhereIsMyTransport/dotnetcli-proto-tool) | WhereIsMyTransport | A tool to assist with compiling and versioning Google Protobuf schema files. [NuGet](https://www.nuget.org/packages/WhereIsMyTransport.Protobuf.Tools.Dotnet/)
-[dotnet-xunit](https://github.com/xunit/xunit) | Xunit | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
-
-**Special mention**
-These tools area available as packages for .NET Core CLI 1.x or 2.0. In the 2.1 CLI, these were made part of the CLI and do not need to be specially installed. See <https://github.com/aspnet/Announcements/issues/290>.
-
-Name | Author | Description
------|--------|--------------
-[dotnet-ef](https://github.com/aspnet/EntityFramework.Tools) | Microsoft | Tools for Entity Framework Core [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools.DotNet/)
-[dotnet-sql-cache](https://github.com/aspnet/DotNetTools) | Microsoft | Initializes a MSSQL database with tables for use with Microsoft.Extensions.Caching.SqlServer. [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.Caching.SqlConfig.Tools)
-[dotnet-user-secrets](https://github.com/aspnet/DotNetTools) | Microsoft | Tool for adding, removing and changing user secrets for use with Microsoft.Extensions.Configuration.UserSecrets [NuGet](https://www.nuget.org/packages/Microsoft.Extensions.SecretManager.Tools)
-[dotnet-watch](https://github.com/aspnet/DotNetTools) | Microsoft | A .NET Core file watcher that triggers dotnet commands when a project or its files change [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Watcher.Tools)
-
-### Community
-
-Tools created by community members.
-
-Name | Description
------|------------
-[dotnet-autover](https://github.com/f14shm4n/f14.AutoVersion) | A tool to auto update build version for your project. [NuGet](https://www.nuget.org/packages/f14.AutoVersion)
-[dotnet-bolt](https://github.com/justkao/Bolt) | Tools for Bolt, a lean and lightweight WCF alternative library based on ASP.NET Core. [NuGet](https://www.nuget.org/packages/Bolt.Tools/)
-[dotnet-bundle](https://github.com/madskristensen/BundlerMinifier) | BundlerMinifier.Core let's you configure bundling and minification of JS, CSS and HTML files. [NuGet](https://www.nuget.org/packages/BundlerMinifier)
-[dotnet-clean](https://github.com/tsolarin/dotnet-clean) | DotNet.Cleaner.Tools is a tool for cleaning projects [NuGet](https://nuget.org/packages/DotNet.Cleaner.Tools)
-[dotnet-commands](https://github.com/Lambda3/dotnet-commands) | A tool that allows you to use any executable as a .NET CLI Command, with special treatment for .NET Core apps. Follow [these instructions](https://github.com/Lambda3/dotnet-commands) to install.
-[dotnet-csproj-to-2017](https://github.com/hvanbakel/CsprojToVs2017) | Tool for converting a pre VS2017 csproj file to the new package format. [NuGet](https://www.nuget.org/packages/Project2015To2017.Cli)
-[dotnet-dbupdate](https://github.com/prayzzz/UniversalDbUpdater) | A tool for managing scripts to backup and update MySQL and MSSQL databases [NuGet](https://www.nuget.org/packages/UniversalDbUpdater/)
-[dotnet-docxml2md](https://github.com/Chida82/docxml2md) | A tool to converter .NET XML documentation into Markdown [NuGet](https://www.nuget.org/packages/docxml2md/)
-[dotnet-fake-cli](https://github.com/fsharp/FAKE) | F# make tool for running build.fsx files. [NuGet](https://www.nuget.org/packages/fake-cli/) 
-[dotnet-fb](https://github.com/mczachurski/FluentBehave)  | FluentBehave is a simple framework to generate C# code base on Gherkin feature files. [NuGet](https://www.nuget.org/packages/FluentBehave.Tools)
-[dotnet-flubu](https://github.com/flubu-core/flubu.core) | Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code. [Nuget](https://www.nuget.org/packages/dotnet-flubu/)
-[dotnet-fssrgen](https://github.com/fsprojects/FsSrGen) | F# String Response Generator [NuGet](https://www.nuget.org/packages/dotnet-fssrgen/)
-[dotnet-gen](https://github.com/Muchiachio/Genny) | A code generator for dotnet projects [NuGet](https://www.nuget.org/packages/Genny/)
-[dotnet-gitversion](https://github.com/nakioman/gitversioncore-tools) | Uses conventions to derive a SemVer product version from a GitFlow or GitHub based repository. [NuGet](https://www.nuget.org/packages/GitVersion.Tools/)
-[dotnet-globwatch](https://github.com/mdschweda/globwatch) | GlobWatch is a .NET Core file system watcher that runs commands on changes. [NuGet](https://www.nuget.org/packages/GlobWatch/)
-[dotnet-gplex](https://github.com/Oleg1cqa/gplex) | Tools for dotnet core based on Gardens Point LEX version 1.2.2 [NuGet](https://www.nuget.org/packages/StarodubOleg.GPLEX)
-[dotnet-gppg](https://github.com/Oleg1cqa/gppg) | Adaptation of Gardens Point Parser Generator version 1.5.2 for dotnet core [NuGet](https://www.nuget.org/packages/StarodubOleg.GPPG/)
-[dotnet-imgopt](https://github.com/anuraj/ImageOptimize) | ImageOptimize is a tool for image optimization. [NuGet](https://www.nuget.org/packages/imageoptimize/)
-[dotnet-migrate](https://github.com/giggio/FluentMigrator.Runner.Cli) | A runner for [Fluent Migrator](https://github.com/schambers/fluentmigrator/). [NuGet](https://www.nuget.org/packages/FluentMigrator.Runner.Cli)
-[dotnet-mono](https://github.com/TheAngryByrd/dotnet-mono) | Run applications targeting .net full framework with mono. [NuGet](https://www.nuget.org/packages/dotnet-mono/)
-[dotnet-nswag](https://github.com/NSwag/NSwag) | Tools for NSwag, a Swagger 2.0 API for .NET, Web API, TypeScript. [NuGet](https://www.nuget.org/packages/NSwag.ConsoleCore/)
-[dotnet-outdated](https://github.com/goenning/dotnet-outdated) | DotNetOutdated is a tool to check for outdated .NET Core dependencies. [NuGet](https://www.nuget.org/packages/DotNetOutdated/)
-[dotnet-project-version](https://github.com/rwasef1830/ProjectVersioning.DotNet.Cli) | ProjectVersioning.DotNet.Cli is a project version generator tool [NuGet](https://www.nuget.org/packages/ProjectVersioning.DotNet.Cli/)
-[dotnet-prop](https://github.com/simonech/dotnet-prop) | dotnet-cli tool for managing properties in netcore projects based on MSBuild. [NuGet](https://www.nuget.org/packages/dotnet-prop)
-[dotnet-publish-ssh](https://github.com/albekov/dotnet-publish-ssh) | DotnetPublishSsh is a a tool to publish your .NET Core application to Linux server via SSH. [NuGet](https://www.nuget.org/packages/DotnetPublishSsh/)
-[dotnet-retire](https://github.com/RetireNet/dotnet-retire) | A dotnet CLI extension to check your project for known vulnerabilities. [NuGet](https://www.nuget.org/packages/dotnet-retire/)
-[dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
-[dotnet-tinify](https://github.com/andrewlock/dotnet-tinify) | A tool for squashing PNG and JPEG files using the [TinyPNG API](https://tinypng.com/developers). [NuGet](https://www.nuget.org/packages/dotnet-tinify/)
-[dotnet-transform-xdt](https://github.com/nil4/dotnet-transform-xdt) | XDT (XML Document Transform) publish tool for transforming XML files at publishing time. [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Xdt.Tools)
-[dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
-[dotnet-tt](https://github.com/atifaziz/t5) | T4 (Text Template Transformation Toolkit) for .NET Core
-[dotnet-unpkg](https://github.com/rendlelabs/dotnet-unpkg) | A tool to install front-end packages from [unpkg.com](https://unpkg.com) with no need for Node.js/NPM/Yarn/whatever. [NuGet](https://www.nuget.org/packages/RendleLabs.UnpkgCli)
-[dotnet-web-compile](https://github.com/sgjsakura/DotNetCore-WebCompiler) | A tool to compile client web files (e.g. SCSS, TS, etc). [NuGet](https://www.nuget.org/packages/Sakura.AspNetCore.Tools.WebCompiler/)
-
-### Experimental
-
-These tools are not yet available on NuGet.org.
-
-Name | Description
------|------------
-[dotnet-cake](https://github.com/cake-build/frosting) | A stand-alone .NET Core runner and host for Cake. [MyGet gallery](https://www.myget.org/gallery/cake)
-[dotnet-st](https://github.com/storyteller/Storyteller) | Storyteller is a tool for crafting executable specifications. *(Requires manual installation but is available on [NuGet](https://www.nuget.org/packages/Storyteller/)).*
 
 ## Wanted
 
