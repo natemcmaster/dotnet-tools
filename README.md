@@ -4,13 +4,13 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI).
 
 These tools can be installed by executing
 
-    dotnet tool install -g <package id>
+    dotnet tool install -g $packageId
     
 After installing, the tool should be available by running
 
-    <command>
+    $commandName
     
-You don't need to run `"dotnet <command>"`, just `<command>`
+You don't need to run `"dotnet $commandName"`, just `$commandName`
 
 The CLI also supports an older format called "project tools" or `<DotNetCliToolReference>`. A list of project tools is [available here](./project-tools.md).
 
