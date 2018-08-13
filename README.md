@@ -36,6 +36,7 @@ Command           | Package Id | Author | Description
 `dotnet-serve` | [dotnet-serve](https://www.nuget.org/packages/dotnet-serve/) | [@natemcmaster](https://github.com/natemcmaster) | A simple command line HTTP server, not code required.  [GitHub](https://github.com/natemcmaster/dotnet-serve)
 `dotnet-sonarscanner` | [dotnet-sonarscanner](https://www.nuget.org/packages/dotnet-sonarscanner) | [@SonarSource](https://github.com/SonarSource) | The SonarScanner for MSBuild is the recommended way to launch a SonarQube or SonarCloud analysis for projects/solutions using dotnet command as build tool.  [GitHub](https://github.com/SonarSource/sonar-scanner-msbuild)
 `dotnet-sshdeploy` | [dotnet-sshdeploy](https://www.nuget.org/packages/dotnet-sshdeploy) | [@Unosquare](https://github.com/unosquare) | A dotnet CLI command that enables quick deployments over SSH.  [GitHub](https://github.com/unosquare/sshdeploy)
+`dotnet-thx` | [DotnetThx](https://www.nuget.org/packages/DotnetThx) | [@krystiankolad](https://github.com/KrystianKolad) | Find authors of packages you are using in you project and visit their GitHub. [Github](https://github.com/KrystianKolad/DotnetThx)
 `dotnet-xdt` | [dotnet-xdt](https://www.nuget.org/packages/dotnet-xdt/) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content.  [GitHub](https://github.com/nil4/dotnet-transform-xdt)
 `dotnetrsa` | [dotnetrsa](https://www.nuget.org/packages/dotnetrsa) | [@stulzq](https://github.com/stulzq) | Generate rsa pkcs1, pkcs8, xml format key. Conversion between the three formats.  [GitHub](https://github.com/stulzq/DotnetRSA)
 `flubu` | [FlubuCore.GlobalTool](https://www.nuget.org/packages/FlubuCore.GlobalTool) | [@FlubuCore](https://github.com/flubu-core) | Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code.  [GitHub](https://github.com/flubu-core/flubu.core)
@@ -54,12 +55,3 @@ Command           | Package Id | Author | Description
 `unpkg` | [RendleLabs.UnpkgCli](https://www.nuget.org/packages/RendleLabs.UnpkgCli) | [@markrendle](https://github.com/markrendle) | Front-end package manager that uses the [unpkg.com](https://unpkg.com) CDN as a source. No Node.js, NPM or Bower required.  [GitHub](https://github.com/RendleLabs/dotnet-unpkg)
 `weeknumber` | [weeknumber](https://www.nuget.org/packages/weeknumber/) | [@MarkusLund](https://github.com/MarkusLund) | Prints the current weeknumber to the command line.  [GitHub](https://github.com/MarkusLund/weeknumber)
 `xscgen` | [dotnet-xscgen](https://www.nuget.org/packages/dotnet-xscgen/) | [@mganss](https://github.com/mganss) | Generate XmlSerializer compatible C# classes from XML Schema files.  [GitHub](https://github.com/mganss/XmlSchemaClassGenerator)
-`dotnet-thx` | [DotnetThx](https://www.nuget.org/packages/DotnetThx) | [@krystiankolad](https://github.com/KrystianKolad) | Find authors of packages you are using in you project and visit their GitHub. [Github](https://github.com/KrystianKolad/DotnetThx)
-
-## Wanted
-
-These are tools that either exists in other ecosystems or are utilities that are in high demand that the community should consider building.
-
-Description|node.js version|golang version|python version|other lang
------------|---------------|--------------|--------------|----------
-Give thanks to the open source maintainers you depend on| [thanks](https://www.npmjs.com/package/thanks)
