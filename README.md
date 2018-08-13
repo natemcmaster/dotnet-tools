@@ -54,7 +54,7 @@ Command           | Package Id | Author | Description
 `unpkg` | [RendleLabs.UnpkgCli](https://www.nuget.org/packages/RendleLabs.UnpkgCli) | [@markrendle](https://github.com/markrendle) | Front-end package manager that uses the [unpkg.com](https://unpkg.com) CDN as a source. No Node.js, NPM or Bower required.  [GitHub](https://github.com/RendleLabs/dotnet-unpkg)
 `weeknumber` | [weeknumber](https://www.nuget.org/packages/weeknumber/) | [@MarkusLund](https://github.com/MarkusLund) | Prints the current weeknumber to the command line.  [GitHub](https://github.com/MarkusLund/weeknumber)
 `xscgen` | [dotnet-xscgen](https://www.nuget.org/packages/dotnet-xscgen/) | [@mganss](https://github.com/mganss) | Generate XmlSerializer compatible C# classes from XML Schema files.  [GitHub](https://github.com/mganss/XmlSchemaClassGenerator)
-`dotnet-thx` | [dotnet-thx](https://www.nuget.org/packages/DotnetThx) | [@krystiankolad](https://github.com/KrystianKolad) | Find authors of packages you are using in you project and visit their GitHub. [Github](https://github.com/KrystianKolad/DotnetThx)
+`dotnet-thx` | [DotnetThx](https://www.nuget.org/packages/DotnetThx) | [@krystiankolad](https://github.com/KrystianKolad) | Find authors of packages you are using in you project and visit their GitHub. [Github](https://github.com/KrystianKolad/DotnetThx)
 
 ## Wanted
 
