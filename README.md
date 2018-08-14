@@ -19,6 +19,7 @@ The CLI also supports an older format called "project tools" or `<DotNetCliToolR
 Command           | Package Id | Author | Description
 ------------------|------------|--------|--------------
 `certes` | [dotnet-certes](https://www.nuget.org/packages/dotnet-certes/) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org)  [GitHub](https://github.com/fszlin/certes)
+`csproj-to-2017` | [Project2015To2017.Cli](https://www.nuget.org/packages/Project2015To2017.Cli/) | [@hvanbakel](https://github.com/hvanbakel) | CLI tool for converting old csproj files to the new VS2017 csproj format  [GitHub](https://github.com/hvanbakel/CsprojToVs2017)
 `dmd5` | [dmd5](https://www.nuget.org/packages/dmd5) | [@Rwing](https://github.com/Rwing) | Just generate MD5 hash value in CLI.  [GitHub](https://github.com/Rwing/Dotnet.Tool.MD5)
 `docker-watch` | [docker-watch](https://www.nuget.org/packages/docker-watch) | [@nickvdyck](https://github.com/nickvdyck) | A command line utiltiy to notify docker mounted volumes about changes on Windows.  [GitHub](https://github.com/nickvdyck/docker-watch)
 `docs` | [dotnet-doc](https://www.nuget.org/packages/dotnet-doc/) | [@spboyer](https://github.com/spboyer) | Search [docs.microsoft.com](https://docs.microsoft.com) using the command line.  [GitHub](https://github.com/spboyer/dotnet-doc)
