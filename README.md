@@ -5,11 +5,11 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI).
 These tools can be installed by executing
 
     dotnet tool install -g $packageId
-    
+
 After installing, the tool should be available by running
 
     $commandName
-    
+
 You don't need to run `"dotnet $commandName"`, just `$commandName`
 
 The CLI also supports an older format called "project tools" or `<DotNetCliToolReference>`. A list of project tools is [available here](./project-tools.md).
@@ -31,6 +31,7 @@ Command           | Package Id | Author | Description
 `dotnet-dbinfo` | [dotnet-dbinfo](https://www.nuget.org/packages/dotnet-dbinfo/) | [@berkid89](https://github.com/berkid89) | A simple cross-platform command-line tool for get useful database information (in json format).  [GitHub](https://github.com/berkid89/dotnet-dbinfo)
 `dotnet-depends` | [dotnet-depends](https://www.nuget.org/packages/dotnet-depends/) | [@mholo65](https://github.com/mholo65) | Dependency explorer for .NET. [Github](https://github.com/mholo65/depends)
 `dotnet-fm` | [FluentMigrator.DotNet.Cli](https://www.nuget.org/packages/FluentMigrator.DotNet.Cli/) | [@FluentMigrator](https://github.com/fluentmigrator) | FluentMigrator: Is a database migration framework for .NET much like Ruby on Rails Migrations.  [GitHub](https://fluentmigrator.github.io/articles/runners/dotnet-fm.html)
+`dotnet-hash` | [TheBlueSky.DotNet.Tools.SwiftHash](https://www.nuget.org/packages/TheBlueSky.DotNet.Tools.SwiftHash/) | [@TheBlueSky](https://github.com/TheBlueSky) | A simple dotnet tool to calculate hashes for the given file. [GitHub](https://github.com/TheBlueSky/dotnet-hash)
 `dotnet-ignore` | [dotnet-ignore](https://www.nuget.org/packages/dotnet-ignore/) | [@Arasz](https://github.com/Arasz) | Global .NET Core tool that can download .gitignore file from github gitignore repository.  [GitHub](https://github.com/Arasz/dotnet-ignore)
 `dotnet-outdated` | [dotnet-outdated](https://www.nuget.org/packages/dotnet-outdated/) | [@jerriep](https://github.com/jerriep) | A .NET Core global tool to display outdated NuGet packages in a project.  [GitHub](https://github.com/jerriep/dotnet-outdated)
 `dotnet-retire`| [dotnet-retire](https://www.nuget.org/packages/dotnet-retire) | [@johnkors](https://github.com/johnkors) |  A dotnet CLI extension to check your project for known vulnerabilities. [GitHub](https://github.com/retirenet/dotnet-retire)
@@ -43,7 +44,7 @@ Command           | Package Id | Author | Description
 `dotnet-xdt` | [dotnet-xdt](https://www.nuget.org/packages/dotnet-xdt/) | [@nil4](https://github.com/nil4) | Global tool for applying XML Document Transformations to .NET configuration files, or any other XML-structured content.  [GitHub](https://github.com/nil4/dotnet-transform-xdt)
 `dotnetrsa` | [dotnetrsa](https://www.nuget.org/packages/dotnetrsa) | [@stulzq](https://github.com/stulzq) | Generate rsa pkcs1, pkcs8, xml format key. Conversion between the three formats.  [GitHub](https://github.com/stulzq/DotnetRSA)
 `flubu` | [FlubuCore.GlobalTool](https://www.nuget.org/packages/FlubuCore.GlobalTool) | [@FlubuCore](https://github.com/flubu-core) | Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code.  [GitHub](https://github.com/flubu-core/flubu.core)
-`ghi` | [github-issues-cli](https://www.nuget.org/packages/github-issues-cli/) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues.  [GitHub](https://github.com/jerriep/github-issues-cli) 
+`ghi` | [github-issues-cli](https://www.nuget.org/packages/github-issues-cli/) | [@jerriep](https://github.com/jerriep) | A simple command-line client for managing GitHub Issues.  [GitHub](https://github.com/jerriep/github-issues-cli)
 `giphy` | [GiphyCli](https://www.nuget.org/packages/GiphyCli/) | [@DavidDeSloovere](https://github.com/DavidDeSloovere) | Find that giphy fast and just copy the url or markdown.  [GitHub](https://github.com/DavidDeSloovere/giphy-cli)
 `git-status` | [git-status-cli](https://www.nuget.org/packages/git-status-cli/) | [@jerriep](https://github.com/jerriep) | A simple command-line utility to determine status of all Git repositories in a directory structure.  [GitHub](https://github.com/jerriep/git-status-cli)
 `html-copy-vscode` | [HtmlCopyVSCode](https://www.nuget.org/packages/HtmlCopyVSCode/) | [@slang25](https://github.com/slang25/) | A global tool to convert snippets copied from VS Code into plain html to paste into your blog.  [GitHub](https://github.com/slang25/html-copy-vscode)
