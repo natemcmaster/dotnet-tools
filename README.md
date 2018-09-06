@@ -59,6 +59,7 @@ Command           | Package Id | Author | Description
 `sleet` | [Sleet](https://www.nuget.org/packages/Sleet/) | [@emgarten](https://github.com/emgarten) | A static NuGet feed generator.   [GitHub](https://github.com/emgarten/Sleet)
 `srihash` | [srihash-cli](https://www.nuget.org/packages/srihash-cli) | [@natemcmaster](https://github.com/natemcmaster) | Generates the SRI hash for `<script>` tags in browsers  [GitHub](https://github.com/natemcmaster/srihash-cli)
 `unpkg` | [RendleLabs.UnpkgCli](https://www.nuget.org/packages/RendleLabs.UnpkgCli) | [@markrendle](https://github.com/markrendle) | Front-end package manager that uses the [unpkg.com](https://unpkg.com) CDN as a source. No Node.js, NPM or Bower required.  [GitHub](https://github.com/RendleLabs/dotnet-unpkg)
+`versioninfo` | [dotnet-versioninfo](https://www.nuget.org/packages/dotnet-versioninfo/) | [@taylorjg](https://github.com/taylorjg) | Display version information of .NET Core assemblies. [GitHub](https://github.com/taylorjg/dotnet-versioninfo)
 `weeknumber` | [weeknumber](https://www.nuget.org/packages/weeknumber/) | [@MarkusLund](https://github.com/MarkusLund) | Prints the current weeknumber to the command line.  [GitHub](https://github.com/MarkusLund/weeknumber)
 `xscgen` | [dotnet-xscgen](https://www.nuget.org/packages/dotnet-xscgen/) | [@mganss](https://github.com/mganss) | Generate XmlSerializer compatible C# classes from XML Schema files.  [GitHub](https://github.com/mganss/XmlSchemaClassGenerator)
 
