@@ -27,6 +27,7 @@ Name | Description
 [dotnet-docxml2md](https://github.com/Chida82/docxml2md) | A tool to converter .NET XML documentation into Markdown [NuGet](https://www.nuget.org/packages/docxml2md/)
 [dotnet-eb](https://github.com/aws/aws-extensions-for-dotnet-cli) | Tools to deploy ASP.NET Core apps to AWS Elastic Beanstalk. [NuGet](https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools)
 [dotnet-ecs](https://github.com/aws/aws-extensions-for-dotnet-cli) | Tools to deploy containers to Amazon Elastic Container Service functions. [NuGet](https://www.nuget.org/packages/Amazon.ECS.Tools)
+[dotnet-encrypto](https://github.com/tomchavakis/encrypto) | A tool to encrypt/decrypt folder or files using AES 256 .[Nuget](https://www.nuget.org/packages/dotnet-encrypto)
 [dotnet-fake-cli](https://github.com/fsharp/FAKE) | F# make tool for running build.fsx files. [NuGet](https://www.nuget.org/packages/fake-cli/) 
 [dotnet-fb](https://github.com/mczachurski/FluentBehave)  | FluentBehave is a simple framework to generate C# code base on Gherkin feature files. [NuGet](https://www.nuget.org/packages/FluentBehave.Tools)
 [dotnet-flubu](https://github.com/flubu-core/flubu.core) | Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code. [Nuget](https://www.nuget.org/packages/dotnet-flubu/)
