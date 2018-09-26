@@ -16,7 +16,7 @@ command from the project directory.
 
 Name | Description
 -----|--------------
-[dotnet-altcover](https://www.nuget.org/packages/altcover.dotnet/)  Cross-platform code line and branch coverage tool-set for .net core/.net framework/mono
+[dotnet-altcover](https://www.nuget.org/packages/altcover.dotnet/) | Cross-platform code line and branch coverage tool-set for .net core/.net framework/mono
 [dotnet-autover](https://github.com/f14shm4n/f14.AutoVersion) | A tool to auto update build version for your project. [NuGet](https://www.nuget.org/packages/f14.AutoVersion)
 [dotnet-bolt](https://github.com/justkao/Bolt) | Tools for Bolt, a lean and lightweight WCF alternative library based on ASP.NET Core. [NuGet](https://www.nuget.org/packages/Bolt.Tools/)
 [dotnet-bundle](https://github.com/madskristensen/BundlerMinifier) | BundlerMinifier.Core let's you configure bundling and minification of JS, CSS and HTML files. [NuGet](https://www.nuget.org/packages/BundlerMinifier)
