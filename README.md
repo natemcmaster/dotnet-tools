@@ -18,6 +18,8 @@ The CLI also supports an older format called "project tools" or `<DotNetCliToolR
 
 Command           | Package Id | Author | Description
 ------------------|------------|--------|--------------
+`altcover` | [altcover.global](https://www.nuget.org/packages/altcover.global/) | [@SteveGilham](https://github.com/SteveGilham) | Cross-platform code line and branch coverage tool-set for .net core/.net framework/mono
+`altcover.visualizer` | [altcover.visualizer](https://www.nuget.org/packages/altcover.visualizer/) | [@SteveGilham](https://github.com/SteveGilham) | Code coverage display tool to show which parts of your code _aren't_ being covered.  Requires GTK+3 installed separately
 `certes` | [dotnet-certes](https://www.nuget.org/packages/dotnet-certes/) | [@fszlin](https://github.com/fszlin) | CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol (example: LetsEncrypt.org)  [GitHub](https://github.com/fszlin/certes)
 `coverlet` | [coverlet.console](https://www.nuget.org/packages/coverlet.console/) | [@tonerdo](https://github.com/tonerdo) | Coverlet is a cross platform code coverage library for .NET Core, with support for line, branch and method coverage. [GitHub](https://github.com/tonerdo/coverlet)
 `csproj-to-2017` | [Project2015To2017.Cli](https://www.nuget.org/packages/Project2015To2017.Cli/) | [@hvanbakel](https://github.com/hvanbakel) | CLI tool for converting old csproj files to the new VS2017 csproj format  [GitHub](https://github.com/hvanbakel/CsprojToVs2017)
