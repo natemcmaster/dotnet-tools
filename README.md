@@ -14,7 +14,7 @@ You don't need to run `"dotnet $commandName"`, just `$commandName`
 
 The CLI also supports an older format called "project tools" or `<DotNetCliToolReference>`. A list of project tools is [available here](./project-tools.md).
 
-> Pro-tip: global tools do not need to be named "dotnet-*". This is only a convention used some authors as a way to indicate a package is meant to be a command line tool, and not a normal library reference.
+:bulb: Global tools do not need to be named "dotnet-*". This is only a convention used some authors as a way to indicate a package is meant to be used as part of the `dotnet` command line tool, and not a standalone tool or library reference.
 
 Command           | Package Id | Author | Description
 ------------------|------------|--------|--------------
