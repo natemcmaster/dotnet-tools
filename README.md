@@ -18,6 +18,7 @@ The CLI also supports an older format called "project tools" or `<DotNetCliToolR
 
 Command           | Package Id | Author | Description
 ------------------|------------|--------|--------------
+`aistdoc` | [Aistant.DocImport](https://www.nuget.org/packages/Aistant.DocImport/) | [@korzh](https://github.com/korzh) | Generates an API reference docs for .NET code (based on XML Documentation comments) and publishes them on the web
 `altcover` | [altcover.global](https://www.nuget.org/packages/altcover.global/) | [@SteveGilham](https://github.com/SteveGilham) | Cross-platform code line and branch coverage tool-set for .net core/.net framework/mono
 `altcover.visualizer` | [altcover.visualizer](https://www.nuget.org/packages/altcover.visualizer/) | [@SteveGilham](https://github.com/SteveGilham) | Code coverage display tool to show which parts of your code _aren't_ being covered.  Requires GTK+3 installed separately
 `azuresigntool` | [azuresigntool](https://www.nuget.org/packages/AzureSignTool/) | [@vcsjones](https://github.com/vcsjones) | Code sign your files using an Authenticode certificate stored in Azure Key Vault [GitHub](https://github.com/vcsjones/AzureSignTool)
