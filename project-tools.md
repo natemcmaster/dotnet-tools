@@ -44,6 +44,7 @@ Name | Description
 [dotnet-migrate](https://github.com/giggio/FluentMigrator.Runner.Cli) | A runner for [Fluent Migrator](https://github.com/schambers/fluentmigrator/). [NuGet](https://www.nuget.org/packages/FluentMigrator.Runner.Cli)
 [dotnet-mono](https://github.com/TheAngryByrd/dotnet-mono) | Run applications targeting .net full framework with mono. [NuGet](https://www.nuget.org/packages/dotnet-mono/)
 [dotnet-nanopack](https://github.com/OctopusDeploy/NanoPack) | A tool to package ASP.NET Core applications into a NanoServer VHD. [NuGet](https://www.nuget.org/packages/NanoPack/)
+[dotnet-nbench](https://github.com/petabridge/nbench) | A tool for runnign NBench performance tests [NuGet](https://www.nuget.org/packages/dotnet-nbench/)
 [dotnet-nswag](https://github.com/NSwag/NSwag) | Tools for NSwag, a Swagger 2.0 API for .NET, Web API, TypeScript. [NuGet](https://www.nuget.org/packages/NSwag.ConsoleCore/)
 [dotnet-outdated](https://github.com/goenning/dotnet-outdated) | DotNetOutdated is a tool to check for outdated .NET Core dependencies. [NuGet](https://www.nuget.org/packages/DotNetOutdated/)
 [dotnet-project-version](https://github.com/rwasef1830/ProjectVersioning.DotNet.Cli) | ProjectVersioning.DotNet.Cli is a project version generator tool [NuGet](https://www.nuget.org/packages/ProjectVersioning.DotNet.Cli/)
