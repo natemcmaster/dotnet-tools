@@ -1,7 +1,6 @@
 # Project tools
 
-A list of project-only tools. Unlike [global tools](./README.md), these tools can only be installed 
-by adding `<DotNetCliToolReference>` into your MSBuild project file, and are only available in the project folder.
+A list of project-only tools. Unlike [global tools](./README.md), these tools can only be installed by adding `<DotNetCliToolReference>` into your MSBuild project file, and are only available in the project folder.
 
 ```xml
 <ItemGroup>
@@ -29,7 +28,7 @@ Name | Description
 [dotnet-eb](https://github.com/aws/aws-extensions-for-dotnet-cli) | Tools to deploy ASP.NET Core apps to AWS Elastic Beanstalk.  Global tool after starting at version 3.0.0.[NuGet](https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools)
 [dotnet-ecs](https://github.com/aws/aws-extensions-for-dotnet-cli) | Tools to deploy containers to Amazon Elastic Container Service functions. Global tool after starting at version 3.0.0. [NuGet](https://www.nuget.org/packages/Amazon.ECS.Tools)
 [dotnet-encrypto](https://github.com/tomchavakis/encrypto) | A tool to encrypt/decrypt folder or files using AES 256 .[Nuget](https://www.nuget.org/packages/dotnet-encrypto)
-[dotnet-fake-cli](https://github.com/fsharp/FAKE) | F# make tool for running build.fsx files. [NuGet](https://www.nuget.org/packages/fake-cli/) 
+[dotnet-fake-cli](https://github.com/fsharp/FAKE) | F# make tool for running build.fsx files. [NuGet](https://www.nuget.org/packages/fake-cli/)
 [dotnet-fb](https://github.com/mczachurski/FluentBehave)  | FluentBehave is a simple framework to generate C# code base on Gherkin feature files. [NuGet](https://www.nuget.org/packages/FluentBehave.Tools)
 [dotnet-flubu](https://github.com/flubu-core/flubu.core) | Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code. [Nuget](https://www.nuget.org/packages/dotnet-flubu/)
 [dotnet-fssrgen](https://github.com/fsprojects/FsSrGen) | F# String Response Generator [NuGet](https://www.nuget.org/packages/dotnet-fssrgen/)
@@ -61,7 +60,7 @@ Name | Description
 [dotnet-xunit](https://github.com/xunit/xunit) | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
 
 **Special mention**
-These tools area available as packages for .NET Core CLI 1.x or 2.0. In the 2.1 CLI, these were made part of the CLI and do not 
+These tools area available as packages for .NET Core CLI 1.x or 2.0. In the 2.1 CLI, these were made part of the CLI and do not
 need to be specially installed. See <https://github.com/aspnet/Announcements/issues/290>.
 
 Name | Description
