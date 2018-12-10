@@ -55,7 +55,7 @@ Name | Description
 [dotnet-transform-xdt](https://github.com/nil4/dotnet-transform-xdt) | XDT (XML Document Transform) publish tool for transforming XML files at publishing time. [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Xdt.Tools)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
 [dotnet-tt](https://github.com/atifaziz/t5) | T4 (Text Template Transformation Toolkit) for .NET Core
-[dotnet-unpkg](https://github.com/rendlelabs/dotnet-unpkg) | A tool to install front-end packages from [unpkg.com](https://unpkg.com) with no need for Node.js/NPM/Yarn/whatever. [NuGet]
+[dotnet-unpkg](https://github.com/rendlelabs/dotnet-unpkg) | A tool to install front-end packages from [unpkg.com](https://unpkg.com) with no need for Node.js/NPM/Yarn/whatever. [NuGet](https://www.nuget.org/packages/RendleLabs.UnpkgCli)
 [dotnet-web-compile](https://github.com/sgjsakura/DotNetCore-WebCompiler) | A tool to compile client web files (e.g. SCSS, TS, etc). [NuGet](https://www.nuget.org/packages/Sakura.AspNetCore.Tools.WebCompiler/)
 [dotnet-xunit](https://github.com/xunit/xunit) | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
 
