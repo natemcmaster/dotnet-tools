@@ -861,7 +861,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td><code>minver-cli</code></td>
       <td>
         <p>
-          A minimalistic .NET package for versioning .NET SDK-style projects using Git tags.
+          A minimalistic command line tool for versioning any Git repository using tags.
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/adamralph/minver">GitHub</a>
