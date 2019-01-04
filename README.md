@@ -507,6 +507,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-sdk</code></td>
+      <td>
+        <p>
+          Manage .NET Core SDKs.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/jonstodle/DotNetSdkHelpers">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/jonstodle">@jonstodle</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/DotNetSdkHelpers/">DotNetSdkHelpers</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-search</code></td>
       <td>
         <p>
