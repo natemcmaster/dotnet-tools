@@ -1165,6 +1165,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>tus</code></td>
+      <td>
+        <p>
+          A cli tool for interacting with a Tus enabled server.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Jon-Indico/TusCli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/Jon-Indico">@Jon-Indico</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/TusCli/">TusCli</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>unpkg</code></td>
       <td>
         <p>
