@@ -453,6 +453,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-pr</code></td>
+      <td>
+        <p>
+          .NET Core command-line (CLI) tool to open the browser in pull request mode for the code collaboration tool (GitHub, GitLab, Bitbucket++) connected to the current checked out branch (fetched via the git remote and/or tracking branch).
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/johnkors">@johnkors</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-pr">dotnet-pr</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-property</code></td>
       <td>
         <p>
