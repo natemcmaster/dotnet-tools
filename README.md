@@ -787,6 +787,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>gitcoauth</code></td>
+      <td>
+        <p>
+          GitCoAuth: simple co-authorship commit line generator for Git commit messages.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/LorenzCK/github-coauth-tool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/LorenzCK">@LorenzCK</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-gitcoauth">dotnet-gitcoauth</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>GitHubMarkdownSnippets</code></td>
       <td>
         <p>
