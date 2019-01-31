@@ -1293,8 +1293,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-xscgen/">dotnet-xscgen</a></code>
       </td>
     </tr>
-    
-      <tr>
+    <tr>
       <td><code>dacpac</code></td>
       <td>
         <p>
@@ -1306,10 +1305,9 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/GustavoAmerico">@gustavoamerico</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Dacpac.Tool/">Dacpac.Tool</a></code>
-        <code>dotnet dacpac publish --dacpath=C:\artifact\db\ --server=mydatabase.server.contoso.com --databasenames='client1;client2;client3;client4'</code>
+        <code> dotnet dacpac publish --dacpath=C:\artifact\db\ --server=mydatabase.server.contoso.com --databasenames='client1;client2;client3;client4' </code>
       </td>
     </tr>
-    
   </tbody>
 </table>
 
