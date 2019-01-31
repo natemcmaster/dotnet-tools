@@ -1304,7 +1304,9 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/GustavoAmerico">@gustavoamerico</a>
         </p>
+        * Install
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Dacpac.Tool/">Dacpac.Tool</a></code>
+        * Run 
         <code> dotnet dacpac publish --dacpath=C:\artifact\db\ --server=mydatabase.server.contoso.com --databasenames='client1;client2;client3;client4' </code>
       </td>
     </tr>
