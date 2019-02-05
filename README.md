@@ -473,6 +473,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-pack</code></td>
+      <td>
+        <p>
+          A .NET Core global tool to pack project into single executable using Warp.
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/Hubert-Rybak">@Hubert-Rybak</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-pack/">dotnet-pack</a></code>
+      </td>
+    </tr>    
+    <tr>
       <td><code>dotnet-pr</code></td>
       <td>
         <p>
