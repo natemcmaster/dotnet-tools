@@ -900,6 +900,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/IdentifierGenerator/">IdentifierGenerator</a></code>
       </td>
     </tr>
+	<tr>
+      <td><code>ilspycmd</code></td>
+      <td>
+        <p>
+          A tool for decompiling .NET assemblies and generating portable PDBs
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/icsharpcode/ILSpy/">@ilspy</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/ilspycmd/">ilspycmd</a></code>
+      </td>
+    </tr>
     <tr>
       <td><code>kubedmc</code></td>
       <td>
