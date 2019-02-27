@@ -839,11 +839,11 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           A utility for merging snippets into GitHub markdown document.
         </p>
         <p>
-          <strong>Project site:</strong> <a href="https://github.com/SimonCropp/CaptureSnippets#githubmarkdownsnippets">GitHub</a>
+          <strong>Project site:</strong> <a href="https://github.com/SimonCropp/MarkdownSnippets#markdownsnippetstool">GitHub</a>
           <br />
           <strong>Author:</strong> <a href="https://github.com/SimonCropp">@SimonCropp</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/GitHubMarkdownSnippets/">GitHubMarkdownSnippets</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/MarkdownSnippets.Tool/">MarkdownSnippets.Tool</a></code>
       </td>
     </tr>
     <tr>
