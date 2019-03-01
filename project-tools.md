@@ -46,6 +46,7 @@ Name | Description
 [dotnet-nbench](https://github.com/petabridge/nbench) | A tool for running NBench performance tests [NuGet](https://www.nuget.org/packages/dotnet-nbench/)
 [dotnet-nswag](https://github.com/NSwag/NSwag) | Tools for NSwag, a Swagger 2.0 API for .NET, Web API, TypeScript. [NuGet](https://www.nuget.org/packages/NSwag.ConsoleCore/)
 [dotnet-outdated](https://github.com/goenning/dotnet-outdated) | DotNetOutdated is a tool to check for outdated .NET Core dependencies. [NuGet](https://www.nuget.org/packages/DotNetOutdated/)
+[dotnet-project-licenses](https://github.com/tomchavakis/nuget-license) | .NET Core tool to get the licenses of a project.[NuGet](https://www.nuget.org/packages/dotnet-project-licenses/)
 [dotnet-project-version](https://github.com/rwasef1830/ProjectVersioning.DotNet.Cli) | ProjectVersioning.DotNet.Cli is a project version generator tool [NuGet](https://www.nuget.org/packages/ProjectVersioning.DotNet.Cli/)
 [dotnet-prop](https://github.com/simonech/dotnet-prop) | dotnet-cli tool for managing properties in netcore projects based on MSBuild. [NuGet](https://www.nuget.org/packages/dotnet-prop)
 [dotnet-proto](https://github.com/WhereIsMyTransport/dotnetcli-proto-tool) | A tool to assist with compiling and versioning Google Protobuf schema files. [NuGet](https://www.nuget.org/packages/WhereIsMyTransport.Protobuf.Tools.Dotnet/)
