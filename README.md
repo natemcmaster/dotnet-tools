@@ -485,6 +485,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-project-licenses</code></td>
+      <td>
+        <p>
+          .NET Core tool to get the licenses of a project.
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/tomchavakis">@tomchavakis</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-project-licenses">dotnet-project-licenses</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-property</code></td>
       <td>
         <p>
