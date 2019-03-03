@@ -326,6 +326,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/FluentMigrator.DotNet.Cli/">FluentMigrator.DotNet.Cli</a></code>
       </td>
     </tr>
+<tr>
+    <td><code>dotnet-format</code></td>
+    <td>
+        <p>
+            <code>dotnet-format</code> is a code formatter for <code>dotnet</code> that applies style preferences to a project or solution. Preferences will be read from an <code>.editorconfig</code> file, if present, otherwise a default set of preferences will be used.
+        </p>
+        <p>
+            <strong>Project site:</strong> <a href="https://github.com/dotnet/format">GitHub</a>
+            <br />
+            <strong>Author:</strong> <a href="https://github.com/dotnet">@dotnet</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-format/">dotnet-format</a></code>
+    </td>
+</tr>	  
     <tr>
       <td><code>dotnet-fsharplint</code></td>
       <td>
