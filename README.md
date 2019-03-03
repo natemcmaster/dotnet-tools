@@ -746,6 +746,19 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>file-sort</code></td>
+      <td>
+        <p> A tool to organize files in folders based by date.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/thewindev/FileSort">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/thewindev">@thewindev</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/file-sort/">file-sort</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>flubu</code></td>
       <td>
         <p>
