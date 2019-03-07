@@ -1179,6 +1179,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>recolor</code></td>
+      <td>
+        <p>
+        Colors regex matches on STDIN lines
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/atifaziz/recolor">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/atifaziz">@atifaziz</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Recolor/">recolor</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>reportgenerator</code></td>
       <td>
         <p>
