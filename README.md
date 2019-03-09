@@ -636,6 +636,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-sqldb</code></td>
+      <td>
+        <p>
+          Using DbUp, to apply migration scripts etc. against a SQL-Server database.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/danielwertheim/dotnet-sqldb">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/danielwertheim">@danielwertheim</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-sqldb">dotnet-sqldb</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-sshdeploy</code></td>
       <td>
         <p>
