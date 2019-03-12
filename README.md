@@ -469,6 +469,8 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           A .NET Core global tool to obfuscate assemblies.
         </p>
         <p>
+	  <strong>Project site:</strong> <a href="https://github.com/obfuscar/obfuscar">GitHub</a>
+          <br />
           <strong>Author:</strong> <a href="https://github.com/lextm">@lextm</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Obfuscar.GlobalTool/">Obfuscar.GlobalTool</a></code>
