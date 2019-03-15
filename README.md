@@ -355,6 +355,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-giio</code></td>
+      <td>
+        <p>
+          A .NET global tool to create useful .gitignore files for your project using gitignore.io
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/liammoat">@liammoat</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-giio/">dotnet-giio</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-gitversion</code></td>
       <td>
         <p>
