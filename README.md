@@ -1137,6 +1137,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>NukedBit.NRepo</code></td>
+      <td>
+        <p>
+          .NET Core Global Tool for simplifying repository creation with good defaults.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nukedbit/nrepo">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/nukedbit">@nukedbit</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/NukedBit.NRepo">NukedBit.NRepo</a></code>
+      </td>
+    </tr>	  
+    <tr>
       <td><code>NuKeeper</code></td>
       <td>
         <p>
