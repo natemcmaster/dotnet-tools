@@ -110,6 +110,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>    
     <tr>
+      <td><code>csval</code></td>
+      <td>
+        <p>
+          Utility that validates a C# source for syntax errors.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/atifaziz/CSharpSyntaxValidator">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/atifaziz">@atifaziz</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpSyntaxValidator/">CSharpSyntaxValidator</a></code>
+      </td>
+    </tr>    
+    <tr>
       <td><code>dacpac</code></td>
       <td>
         <p>
