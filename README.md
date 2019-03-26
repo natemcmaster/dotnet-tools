@@ -110,6 +110,22 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>    
     <tr>
+      <td><code>csmin</code></td>
+      <td>
+        <p>
+          Fast and small utility to minify C# source. It removes whitespace and comments without
+          altering the behaviour of the code. It is fast and small because it does not need or use Roslyn. It is
+          <a href="https://www.nuget.org/packages/CSharpMinifier/">also available as a library</a>.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/atifaziz/CSharpMinifier">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/atifaziz">@atifaziz</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpMinifier/">CSharpSyntaxValidator</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>csval</code></td>
       <td>
         <p>
