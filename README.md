@@ -122,7 +122,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/atifaziz">@atifaziz</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpMinifier/">CSharpSyntaxValidator</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpMinifier/">CSharpMinifier</a></code>
       </td>
     </tr>
     <tr>
