@@ -52,20 +52,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>azuresigntool</code></td>
-      <td>
-        <p>
-          Code sign your files using an Authenticode certificate stored in Azure Key Vault
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/vcsjones/AzureSignTool">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/vcsjones">@vcsjones</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzureSignTool/">azuresigntool</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>as-cli</code></td>
       <td>
         <p>
@@ -77,6 +63,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/peacecwz">@peacecwz</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/azure-storage-cli/">azure-storage-cli</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>azuresigntool</code></td>
+      <td>
+        <p>
+          Code sign your files using an Authenticode certificate stored in Azure Key Vault
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/vcsjones/AzureSignTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/vcsjones">@vcsjones</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzureSignTool/">azuresigntool</a></code>
       </td>
     </tr>
     <tr>
