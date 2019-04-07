@@ -1321,6 +1321,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>sbmgr</code></td>
+      <td>
+        <p>
+          Azure servicebus message manager. List, send, resend and delete messages on servicebus queues or topics
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/thonhotels/message-manager">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://www.thonhotels.no">Thon Hotels</a> / <a href="https://novanet.no">Novanet</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/message-manager">message-manager</a></code>
+      </td>
+    </tr>    
+    <tr>
       <td><code>sleet</code></td>
       <td>
         <p>
