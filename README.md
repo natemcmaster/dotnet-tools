@@ -762,20 +762,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>dotnet-todo</code></td>
-      <td>
-        <p>
-          The simple, powerfull and extensible Todo List app in your terminal.
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/ivanpaulovich/todo">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/ivanpaulovich">@ivanpaulovich</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/todo">todo</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>dotnet-warp</code></td>
       <td>
         <p>
@@ -1417,6 +1403,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/nicodeslandes">@nicodeslandes</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/TcpMux/">TcpMux</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>todo</code></td>
+      <td>
+        <p>
+          The simple, powerfull and extensible Todo List app in your terminal.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/ivanpaulovich/todo">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/ivanpaulovich">@ivanpaulovich</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/todo">todo</a></code>
       </td>
     </tr>
     <tr>
