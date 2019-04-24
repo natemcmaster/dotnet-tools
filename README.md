@@ -916,6 +916,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>git-rocket-filter</code></td>
+      <td>
+        <p>
+          A powerful and faster version of git-filter-branch using C# Roslyn scripting to rewrite/filter commits.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/xoofx/git-rocket-filter">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/xoofx">@xoofx</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/git-rocket-filter/">git-rocket-filter</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>git-status</code></td>
       <td>
         <p>
