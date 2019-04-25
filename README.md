@@ -465,6 +465,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-imgup</code></td>
+      <td>
+        <p>
+          Global .NET Core tool to upload images on disk to <a href="https://imgur.com">imgur</a>.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/rohith/dotnet-imgup">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rohith">@rohith</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-imgup/">dotnet-imgup</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-install</code></td>
       <td>
         <p>
@@ -502,6 +516,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/hvanbakel">@hvanbakel</a>
         </p>
         <code>dotnet tool install -g         <a href="https://www.nuget.org/packages/Project2015To2017.Migrate2017.Tool">Project2015To2017.Migrate2017.Tool</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>dotnet-namechk</code></td>
+      <td>
+        <p>
+          Global .NET Core tool to check for the availability of package names on <a href="https://nuget.org">NuGet</a>
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/rohith/dotnet-namechk">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rohith">@rohith</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://nuget.org/packages/dotnet-namechk">dotnet-namechk</a></code>
       </td>
     </tr>
     <tr>
