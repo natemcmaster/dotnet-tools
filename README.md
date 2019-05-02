@@ -80,6 +80,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>base64urls </code></td>
+      <td>
+        <p>
+          CLI tool for base64 & base64url encode/decode for URL applications.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/guitarrapc/Base64UrlCore">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/guitarrapc">@guitarrapc</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/base64urls/">base64urls</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>certes</code></td>
       <td>
         <p>
