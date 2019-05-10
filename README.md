@@ -819,8 +819,9 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td><code>dotnet-xdt</code></td>
       <td>
         <p>
-          Global tool for applying XML Document Transformations to .NET configuration files, or any other
-          XML-structured content.
+          Toolbox for applying XML Document Transformations to .NET configuration files, or any other
+          XML-structured content. Includes a .NET Core global tool, a .NET Standard library with no
+          external dependencies, and a standalone .NET 4.6+ executable.
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/nil4/dotnet-transform-xdt">GitHub</a>
