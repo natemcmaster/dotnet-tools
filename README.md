@@ -475,6 +475,21 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-octo</code></td>
+      <td>
+        <p>
+          A .NET Core tool for octo.exe. This lets you install Octo onto a machine or build agent as long as you have the .NET Core 2.1.300 SDK available.
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/OctopusDeploy">@OctopusDeploy</a>
+        </p>
+	<p>
+	Because it is common to install octo.exe in the cloud, you'll likely want to install it in a specific non-OS volume and on the version of Octopus Deploy you currently support:
+	</p>
+        <code>dotnet tool install <a href="https://www.nuget.org/packages/Octopus.DotNet.Cli/">Octopus.DotNet.Cli</a> --tool-path /path/for/tool --version `<version>`</code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-outdated</code></td>
       <td>
         <p>
