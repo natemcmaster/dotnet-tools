@@ -136,7 +136,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/coverlet.console/">coverlet.console</a></code>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td><code>csmin</code></td>
       <td>
@@ -166,7 +166,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpSyntaxValidator/">CSharpSyntaxValidator</a></code>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td><code>dacpac</code></td>
       <td>
@@ -182,7 +182,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <br />
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Dacpac.Tool/">Dacpac.Tool</a></code>
         <br />
-        * Run 
+        * Run
         <br />
         <code> dotnet dacpac publish --dacpath=C:\artifact\db\ --server=mydatabase.server.contoso.com --databasenames='client1;client2;client3;client4' </code>
       </td>
@@ -397,7 +397,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-format/">dotnet-format</a></code>
     </td>
-</tr>	  
+</tr>
     <tr>
       <td><code>dotnet-fsharplint</code></td>
       <td>
@@ -600,7 +600,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-outdated/">dotnet-outdated</a></code>
       </td>
-    </tr> 
+    </tr>
     <tr>
       <td><code>dotnet-pr</code></td>
       <td>
@@ -819,6 +819,27 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-try</code></td>
+      <td>
+        <p>
+          Try.NET Global Tool: interactive in-browser documentation and workshop creator
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://dotnet.microsoft.com/platform/try-dotnet">Try .NET</a>
+          <br />
+          <strong>Source Code:</strong><a href="https://github.com/dotnet/try">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/dotnet">@dotnet (organization)</a>
+        </p>
+        <code>dotnet tool install --global <a href="https://www.nuget.org/packages/dotnet-try/">dotnet-try</a></code>
+        <h3>Using dotnet-try</h3>
+        <p>
+          <code>git clone https://github.com/dotnet/try -b samples</code>
+          <code>dotnet try</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-warp</code></td>
       <td>
         <p>
@@ -829,7 +850,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-warp/">dotnet-warp</a></code>
       </td>
-    </tr>       
+    </tr>
     <tr>
       <td><code>dotnet-xdt</code></td>
       <td>
@@ -1265,7 +1286,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/NukedBit.NRepo">NukedBit.NRepo</a></code>
       </td>
-    </tr>	  
+    </tr>
     <tr>
       <td><code>NuKeeper</code></td>
       <td>
@@ -1405,7 +1426,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/message-manager">message-manager</a></code>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td><code>sleet</code></td>
       <td>
@@ -1503,27 +1524,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/gfoidl">@gfoidl</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/trx2junit/">trx2junit</a></code>
-      </td>
-    </tr>
-    <tr>
-      <td><code>try</code></td>
-      <td>
-        <p>
-          Try.NET Global Tool: interactive in-browser documentation and workshop creator
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://dotnet.microsoft.com/platform/try-dotnet">Try .NET</a>
-	  <br />
-	  <strong>Source Code:</strong><a href="https://github.com/dotnet/try">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/dotnet">@dotnet (organization)</a>
-        </p>
-        <code>dotnet tool install --global <a href="https://www.nuget.org/packages/dotnet-try/">dotnet-try</a></code>
-        <h3>Using dotnet-try</h3>
-        <p>
-          <code>git clone https://github.com/dotnet/try -b samples</code>
-          <code>dotnet try</code>
-        </p>
       </td>
     </tr>
     <tr>
