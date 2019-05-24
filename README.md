@@ -1512,16 +1512,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           Try.NET Global Tool: interactive in-browser documentation and workshop creator
         </p>
         <p>
-          <strong>Project site:</strong> <a href="https://dotnet.microsoft.com/platform/try-dotnet">Try .NET</a> <a href="https://github.com/dotnet/try">GitHub</a>
+          <strong>Project site:</strong> <a href="https://dotnet.microsoft.com/platform/try-dotnet">Try .NET</a>
+	  <br />
+	  <strong>Source Code:</strong><a href="https://github.com/dotnet/try">GitHub</a>
           <br />
           <strong>Author:</strong> <a href="https://github.com/dotnet">@dotnet (organization)</a>
         </p>
         <code>dotnet tool install --global <a href="https://www.nuget.org/packages/dotnet-try/">dotnet-try</a></code>
-		<h3>Using dotnet-try</h3>
-		<p>
-		  <code>git clone https://github.com/dotnet/try -b samples</code>
-		  <code>dotnet try</code>
-		</p>
+        <h3>Using dotnet-try</h3>
+        <p>
+          <code>git clone https://github.com/dotnet/try -b samples</code>
+          <code>dotnet try</code>
+        </p>
       </td>
     </tr>
     <tr>
