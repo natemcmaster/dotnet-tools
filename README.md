@@ -924,6 +924,19 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>findref</code></td>
+      <td>
+        <p> Find which assemblies in a folder whom are referencing a given assembly
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/henrihs/findref">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/henrihs">@henrihs</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/findref/">findref</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>flubu</code></td>
       <td>
         <p>
