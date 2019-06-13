@@ -840,6 +840,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-version</code></td>
+      <td>
+        <p>
+          A simple tool to update the version number of your project. If you know of yarn version, this is that for .NET.
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/Jon-Indico">@Jon-Indico</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/DotnetVersion/">DotnetVersion</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-warp</code></td>
       <td>
         <p>
