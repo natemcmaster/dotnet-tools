@@ -2,7 +2,7 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Core global tools'.
 
-> **Tip:** :bulb:
+> **Tip:** :bu
 > Global tools do not need to be named "dotnet-*". This is only a convention used by some authors as a way to indicate a package is meant to be used as part of the `dotnet` command line tool, and not a standalone tool or library reference.
 
 <table>
@@ -1638,6 +1638,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/mganss">@mganss</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-xscgen/">dotnet-xscgen</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>xunit</code></td>
+      <td>
+        <p>
+          Console tool for running xUnit.net tests
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/natemcmaster/xunit-cli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/natemcmaster">@natemcmaster</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.myget.org/feed/natemcmaster/package/nuget/xunit-cli">xunit-cli</a> --add-source https://www.myget.org/F/natemcmaster/api/v3/index.json</code>
       </td>
     </tr>
   </tbody>
