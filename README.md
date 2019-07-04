@@ -1203,6 +1203,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>nanoff</code></td>
+      <td>
+        <p>
+          A .NET Core Tool to update the firmware of nanoFramework devices. It can also backup the firmware, deployment and be used in production environment.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nanoframework/nanoFirmwareFlasher">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/nanoframework">@AArnott</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/nanoFirmwareFlasher/">nanoFirmwareFlasher</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>nbgv</code></td>
       <td>
         <p>
