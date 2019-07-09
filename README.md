@@ -1009,6 +1009,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>git-flow-version</code></td>
+      <td>
+        <p>
+          Create predictable and opinionated SemVer 2.0.0 version numbers for git flow repositories.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/hightechict/DashDashVersion">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/hightechict">@hightechict</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/git-flow-version">git-flow-version</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>git-istage</code></td>
       <td>
         <p> A better git add -p.
