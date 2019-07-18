@@ -2,7 +2,7 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Core global tools'.
 
-> **Tip:** :bu
+> **Tip:** :bulb:
 > Global tools do not need to be named "dotnet-*". This is only a convention used by some authors as a way to indicate a package is meant to be used as part of the `dotnet` command line tool, and not a standalone tool or library reference.
 
 <table>
