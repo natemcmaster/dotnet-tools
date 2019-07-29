@@ -1203,6 +1203,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>mddox</code></td>
+      <td>
+        <p>
+          A simple markdown documentation generator using reflection and XML comments.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/loxsmoke/mddox">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/loxsmoke">@loxsmoke</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/LoxSmoke.mddox">loxsmoke.mddox</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>minver-cli</code></td>
       <td>
         <p>
