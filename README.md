@@ -791,20 +791,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>dotnet-t4</code></td>
-      <td>
-        <p>
-          T4 text template processor.
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/mono/t4">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/mhutch">@mhutch</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-t4/">dotnet-t4</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>dotnet-thx</code></td>
       <td>
         <p>
@@ -1550,6 +1536,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/markpflug">@markpflug</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Elemental.SysInfoTool/">Elemental.SysInfoTool</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>t4</code></td>
+      <td>
+        <p>
+          T4 text template processor.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/mono/t4">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/mhutch">@mhutch</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-t4/">dotnet-t4</a></code>
       </td>
     </tr>
     <tr>
