@@ -188,6 +188,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dbtool</code></td>
+      <td>
+        <p>
+          Allows to exports (to backup) DB data to some commonly-used format (XML, JSON, etc.) and then import it back via a command-line interface.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/kedonec/Korzh.DbUtils">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/korzh">@korzh</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Korzh.DbTool/">Korzh.DbTool</a></code>
+      </td>
+    </tr>	  
+    <tr>
       <td><code>dmd5</code></td>
       <td>
         <p>
