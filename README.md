@@ -17,7 +17,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td><code>aistdoc</code></td>
       <td>
         <p>
-          Generates an API reference documetation for .NET and TypeScript code (based on XML Docs or TypeDoc comments) and publishes
+          Generates an API reference documentation for .NET and TypeScript code (based on XML Docs or TypeDoc comments) and publishes
           it on the web.
         </p>
         <p>
