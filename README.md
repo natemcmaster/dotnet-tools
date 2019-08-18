@@ -1582,6 +1582,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>templateversions</code></td>
+      <td>
+        <p>
+          Lists all the versions of dotnet core SDKs in your user template directory and the global tools for each version.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/VictorioBerra/TemplateVersions.Tool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/VictorioBerra">@VictorioBerra</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/TemplateVersions.Tool/">TemplateVersions.Tool</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>todo</code></td>
       <td>
         <p>
