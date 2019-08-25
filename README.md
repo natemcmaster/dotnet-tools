@@ -1146,6 +1146,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
 	<tr>
+      <td><code>installsdk</code></td>
+      <td>
+        <p>
+            A global tool for downloading and installing .NET Core SDKs based on a global.json files.  
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/JosephWoodward/InstallSdkGlobalTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/JosephWoodward">@josephwoodward</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/InstallSdkGlobalTool/1.0.0-alpha">installsdk</a></code>
+      </td>
+    </tr>
+	<tr>
       <td><code>ilspycmd</code></td>
       <td>
         <p>
