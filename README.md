@@ -1245,6 +1245,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>minimig</code></td>
+      <td>
+        <p>
+          A forward-only database migration tool.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Jaxelr/Minimig">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/jaxelr">@jaxelr</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/minimig">minimig</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>nanoff</code></td>
       <td>
         <p>
