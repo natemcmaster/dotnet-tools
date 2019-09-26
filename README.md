@@ -94,6 +94,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>boots</code></td>
+      <td>
+        <p>
+          .NET global tool for bootstrapping vsix &amp; pkg files. Just &quot;boots https://url/to/your/package&quot;!
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/jonathanpeppers/boots">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/jonathanpeppers">@jonathanpeppers</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/boots/">boots</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>certes</code></td>
       <td>
         <p>
