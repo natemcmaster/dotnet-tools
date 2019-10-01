@@ -65,7 +65,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/azure-storage-cli/">azure-storage-cli</a></code>
       </td>
     </tr>
-    </tr>
     <tr>
       <td><code>autocommit</code></td>
       <td>
