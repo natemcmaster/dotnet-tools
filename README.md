@@ -65,6 +65,21 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/azure-storage-cli/">azure-storage-cli</a></code>
       </td>
     </tr>
+    </tr>
+    <tr>
+      <td><code>autocommit</code></td>
+      <td>
+        <p>
+          Automatically commit changes to git on a set interval, ending with a squash merge to the original head
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/StevenThuriot/GitAutoCommit">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/StevenThuriot/GitAutoCommit">@StevenThuriot</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-autocommit/">dotnet-autocommit</a></code>
+      </td>
+    </tr>
     <tr>
       <td><code>azuresigntool</code></td>
       <td>
