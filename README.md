@@ -1567,6 +1567,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>sharpfuzz</code></td>
+      <td>
+        <p>
+          Command line tool for SharpFuzz instrumentation.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Metalnem/sharpfuzz">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/Metalnem">@Metalnem</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/SharpFuzz.CommandLine/">SharpFuzz.CommandLine</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>sleet</code></td>
       <td>
         <p>
