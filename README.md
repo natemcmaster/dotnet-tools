@@ -1140,6 +1140,8 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           .NET Core Global Tool for creating GUIDs/UUIDs.
         </p>
         <p>
+          <strong>Project site:</strong> <a href="https://github.com/sebnilsson/DotnetGuid">GitHub</a>
+          <br />
           <strong>Author:</strong> <a href="https://github.com/sebnilsson">@sebnilsson</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-guid/">dotnet-guid</a></code>
