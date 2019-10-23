@@ -1499,6 +1499,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>pwsh</code></td>
+      <td>
+        <p>
+          PowerShell Core global tool.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/PowerShell/PowerShell">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/PowerShell">@PowerShell</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/PowerShell/">PowerShell</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>recolor</code></td>
       <td>
         <p>
