@@ -94,6 +94,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>azure-boards-workitems</code></td>
+      <td>
+        <p>
+          Execute queries and other work item data extraction tools.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/sep/AzDevWorkItemHistory">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/jonfuller">@jonfuller</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/azure-boards-workitems/">azure-boards-workitems</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>base64urls </code></td>
       <td>
         <p>
