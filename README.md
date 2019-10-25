@@ -80,6 +80,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>aver</code></td>
+      <td>
+        <p>
+          Dotnet tool for reading assembly information
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/mocosha/assembly-version">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/mocosha">@mocosha</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/aver/">aver</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>azuresigntool</code></td>
       <td>
         <p>
