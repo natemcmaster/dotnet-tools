@@ -896,6 +896,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-ups</code></td>
+      <td>
+        <p>
+          Synchronize sln folder structure to physical folders also fixing project references.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/floatas/UPS">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/floatas">@Floatas</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-ups">dotnet-ups</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-version</code></td>
       <td>
         <p>
