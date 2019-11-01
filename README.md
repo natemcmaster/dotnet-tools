@@ -94,20 +94,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>azuresigntool</code></td>
-      <td>
-        <p>
-          Code sign your files using an Authenticode certificate stored in Azure Key Vault
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/vcsjones/AzureSignTool">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/vcsjones">@vcsjones</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzureSignTool/">azuresigntool</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>azure-boards-workitems</code></td>
       <td>
         <p>
@@ -119,6 +105,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/jonfuller">@jonfuller</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/azure-boards-workitems/">azure-boards-workitems</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>azuresigntool</code></td>
+      <td>
+        <p>
+          Code sign your files using an Authenticode certificate stored in Azure Key Vault
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/vcsjones/AzureSignTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/vcsjones">@vcsjones</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzureSignTool/">azuresigntool</a></code>
       </td>
     </tr>
     <tr>
@@ -256,7 +256,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Korzh.DbTool/">Korzh.DbTool</a></code>
       </td>
-    </tr>	  
+    </tr>
     <tr>
       <td><code>dmd5</code></td>
       <td>
@@ -495,6 +495,17 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-gitreleasemanager</code></td>
+      <td>
+        <p>
+          Tool for creating and exporting releases for software applications hosted on Github </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/GitTools">@GitTools</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/GitReleaseManager.Tool">GitReleaseManager.Tool</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-gitversion</code></td>
       <td>
         <p>
@@ -506,17 +517,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/GitTools">@GitTools</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/GitVersion.Tool">GitVersion.Tool</a></code>
-      </td>
-    </tr>
-    <tr>
-      <td><code>dotnet-gitreleasemanager</code></td>
-      <td>
-        <p>
-          Tool for creating and exporting releases for software applications hosted on Github </p>
-        <p>
-          <strong>Author:</strong> <a href="https://github.com/GitTools">@GitTools</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/GitReleaseManager.Tool">GitReleaseManager.Tool</a></code>
       </td>
     </tr>
     <tr>
@@ -1217,20 +1217,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/IdentifierGenerator/">IdentifierGenerator</a></code>
       </td>
     </tr>
-	<tr>
-      <td><code>installsdk</code></td>
-      <td>
-        <p>
-            A global tool for downloading and installing .NET Core SDKs based on a global.json files.  
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/JosephWoodward/InstallSdkGlobalTool">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/JosephWoodward">@josephwoodward</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/InstallSdkGlobalTool/">InstallSdkGlobalTool</a></code>
-      </td>
-    </tr>
     <tr>
       <td><code>ilspycmd</code></td>
       <td>
@@ -1243,6 +1229,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/icsharpcode/ILSpy/">@ilspy</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/ilspycmd/">ilspycmd</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>installsdk</code></td>
+      <td>
+        <p>
+            A global tool for downloading and installing .NET Core SDKs based on a global.json files.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/JosephWoodward/InstallSdkGlobalTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/JosephWoodward">@josephwoodward</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/InstallSdkGlobalTool/">InstallSdkGlobalTool</a></code>
       </td>
     </tr>
     <tr>
@@ -1317,20 +1317,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>minver-cli</code></td>
-      <td>
-        <p>
-          A minimalistic command line tool for versioning any Git repository using tags.
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/adamralph/minver">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/adamralph">@adamralph</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/minver-cli">minver-cli</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>minimig</code></td>
       <td>
         <p>
@@ -1342,6 +1328,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/jaxelr">@jaxelr</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/minimig">minimig</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>minver-cli</code></td>
+      <td>
+        <p>
+          A minimalistic command line tool for versioning any Git repository using tags.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/adamralph/minver">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/adamralph">@adamralph</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/minver-cli">minver-cli</a></code>
       </td>
     </tr>
     <tr>
@@ -1386,20 +1386,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>NuGetKeyVaultSignTool</code></td>
-      <td>
-        <p>
-          Code sign your .nupkg files using an Authenticode certificate stored in Azure Key Vault
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/onovotny/NuGetKeyVaultSignTool">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/onovotny">@onovotny</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/NuGetKeyVaultSignTool/">NuGetKeyVaultSignTool</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>nuget-deploy</code></td>
       <td>
         <p>
@@ -1440,6 +1426,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/stazz">@stazz</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/NuGetUtils.Tool.Restore/">NuGetUtils.Tool.Restore</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>NuGetKeyVaultSignTool</code></td>
+      <td>
+        <p>
+          Code sign your .nupkg files using an Authenticode certificate stored in Azure Key Vault
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/onovotny/NuGetKeyVaultSignTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/onovotny">@onovotny</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/NuGetKeyVaultSignTool/">NuGetKeyVaultSignTool</a></code>
       </td>
     </tr>
     <tr>
@@ -1842,7 +1842,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td><code>WhiteSpaceWarrior</code></td>
       <td>
         <p>
-           Removes all the stuff you get annoyed about when you speed-read code, such as empty lines, empty comments, and short meaningles comments. 
+           Removes all the stuff you get annoyed about when you speed-read code, such as empty lines, empty comments, and short meaningles comments.
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/kbilsted/WhitespaceWarrior">GitHub</a>
@@ -1851,7 +1851,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/WhiteSpaceWarrior/">WhiteSpaceWarrior</a></code>
       </td>
-    </tr>	  
+    </tr>
     <tr>
       <td><code>xscgen</code></td>
       <td>
