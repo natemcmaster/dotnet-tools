@@ -314,6 +314,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-apim</code></td>
+      <td>
+        <p>
+          A cross-platform dotnet tool which streamlines the CI/CD process of deploying APIs into Azure API Management 
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/mirsaeedi/dotnet-apim">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/mirsaeedi/">@mirsaeedi</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Apim.DevOps.Toolkit/">dotnet-apim</a></code>
+      </td>
+    </tr>	  
+    <tr>
       <td><code>dotnet-aspnet-codegenerator</code></td>
       <td>
         <p>
