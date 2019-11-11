@@ -317,7 +317,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td><code>dotnet-apim</code></td>
       <td>
         <p>
-          A cross-platform dotnet tool which streamlines the CI/CD process of deploying APIs into Azure API Management 
+          A cross-platform dotnet tool which streamlines the CI/CD process of deploying APIs into Azure API Management
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/mirsaeedi/dotnet-apim">GitHub</a>
@@ -1145,6 +1145,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/jerriep">@jerriep</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/git-status-cli/">git-status-cli</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>gitchanges</code></td>
+      <td>
+        <p>
+          Generate changelogs from git history.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/bzumhagen/dotnet-gitchanges">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/bzumhagen">@bzumhagen</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-gitchanges">dotnet-gitchanges</a></code>
       </td>
     </tr>
     <tr>
