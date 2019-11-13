@@ -806,6 +806,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-server</code></td>
+      <td>
+        <p>
+          A configurable local http server to "mock" or fake responses from down stream services.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/joro550/dotnet-server">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/joro550">@joro550</a>
+        </p>
+        <code>dotnet tool install --g <a href="https://www.nuget.org/packages/DotNetSimpleServer/">DotNetSimpleServer</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-snow</code></td>
       <td>
         <p>
