@@ -1554,6 +1554,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>p2u</code></td>
+      <td>
+        <p>
+          Paste text content with Unix-like line terminations into Windows Terminal without extra line wrapping. Even into Cmd or Vim.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/celsojr/p2u">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/celsojr">@celsojr</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/p2u">p2u</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>pbm</code></td>
       <td>
         <p>
