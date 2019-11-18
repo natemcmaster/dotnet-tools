@@ -258,6 +258,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>depguard</code></td>
+      <td>
+        <p>
+          Check your projects for use of disallowed (blacklisted) NuGet packages, including transitive references.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/christophwille/dotnet-depguard/">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/christophwille/">@christophwille</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://github.com/christophwille/dotnet-depguard/">depguard</a></code>
+      </td>
+    </tr>	
+    <tr>
       <td><code>dmd5</code></td>
       <td>
         <p>
