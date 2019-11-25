@@ -1554,7 +1554,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>OMNIA Low-code</code></td>
+      <td><code>omnia-cli</code></td>
       <td>
         <p>
           A cli tool for interacting with OMNIA Low-code REST API.
