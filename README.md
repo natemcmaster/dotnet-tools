@@ -1172,7 +1172,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/jerriep">@jerriep</a>
         </p>
-        ><code>dotnet tool install -g <a href="https://www.nuget.org/packages/git-status-cli/">git-status-cli</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/git-status-cli/">git-status-cli</a></code>
       </td>
     </tr>
     <tr>
