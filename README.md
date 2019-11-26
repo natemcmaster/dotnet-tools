@@ -1554,6 +1554,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>omnia-cli</code></td>
+      <td>
+        <p>
+          A cli tool for interacting with OMNIA Low-code REST API.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/omnialowcode/omnia-cli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/omnialowcode/">@OMNIA Low-code</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Omnia.CLI/">Omnia.CLI</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>otterkeys</code></td>
       <td>
         <p>
