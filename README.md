@@ -1302,6 +1302,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>jitdasm</code></td>
+      <td>
+        <p>
+          Disassembles one or more .NET methods / types to stdout or file(s). It can also create diffable disassembly.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/0xd4d/JitDasm">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/0xd4d">@0xd4d</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/JitDasm.0xd4d">JitDasm.0xd4d</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>json2yaml</code></td>
       <td>
         <p>
