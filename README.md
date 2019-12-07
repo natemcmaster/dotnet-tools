@@ -917,6 +917,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-toast</code></td>
+      <td>
+        <p>
+          A .NET Core global tool to send custom toast notifications on Windows 10
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/rohith/dotnet-toast">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rohith">@rohith</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-toast">dotnet-toast</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-try</code></td>
       <td>
         <p>
