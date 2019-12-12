@@ -548,6 +548,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-grab</code></td>
+      <td>
+        <p>
+          .NET core global tool to download nuget packages in to a directory without any project. Useful when developing csx / fsx scripts
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/rohith/dotnet-grab">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rohith">@rohith</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://nuget.org/packages/dotnet-grab">dotnet-grab</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-hash</code></td>
       <td>
         <p>
