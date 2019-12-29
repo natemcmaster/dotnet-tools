@@ -19,6 +19,7 @@ Name | Description
 [dotnet-autover](https://github.com/f14shm4n/f14.AutoVersion) | A tool to auto update build version for your project. [NuGet](https://www.nuget.org/packages/f14.AutoVersion)
 [dotnet-bolt](https://github.com/justkao/Bolt) | Tools for Bolt, a lean and lightweight WCF alternative library based on ASP.NET Core. [NuGet](https://www.nuget.org/packages/Bolt.Tools/)
 [dotnet-bundle](https://github.com/madskristensen/BundlerMinifier) | BundlerMinifier.Core let's you configure bundling and minification of JS, CSS and HTML files. [NuGet](https://www.nuget.org/packages/BundlerMinifier)
+[dotnet-certdump](https://github.com/secana/CertDump)| Dump signing certificates from a Portable Executable (PE) file. [NuGet](https://www.nuget.org/packages/CertDump/)
 [dotnet-clean](https://github.com/tsolarin/dotnet-clean) | DotNet.Cleaner.Tools is a tool for cleaning projects [NuGet](https://nuget.org/packages/DotNet.Cleaner.Tools)
 [dotnet-commands](https://github.com/Lambda3/dotnet-commands) | A tool that allows you to use any executable as a .NET CLI Command, with special treatment for .NET Core apps. Follow [these instructions](https://github.com/Lambda3/dotnet-commands) to install.
 [dotnet-compile-php](https://github.com/iolevel/peachpie) | Command line for [Peachpie](http://www.peachpie.io/) - the PHP Compiler and Runtime for .NET [NuGet](https://www.nuget.org/packages/Peachpie.Compiler.Tools/)
