@@ -150,6 +150,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>certdump</code></td>
+      <td>
+        <p>
+          CLI tool to dump the signing certificate from a Portable Executable (PE) file.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/secana/CertDump">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/secana">@secana</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CertDump/">CertDump</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>certes</code></td>
       <td>
         <p>
