@@ -2007,6 +2007,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>xstyler</code></td>
+      <td>
+        <p>
+          CLI for XAML Styler. Format your XAML source code by integrating into build scripts, git commit templates, and more. This package is built on top of the same styling engine that powers the Visual Studio plugin.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Xavalon/XamlStyler">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/Xavalon">Xavalon</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/XamlStyler.Console">XamlStyler.Console</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>xunit</code></td>
       <td>
         <p>
