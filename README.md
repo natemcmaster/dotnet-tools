@@ -1457,6 +1457,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>moniker</code></td>
+      <td>
+        <p>
+          Moniker CLI is a tiny .NET Core Global Tool for generating fun names. The names can follow the style used in Helm for release names or in Docker for container names.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/alexmg/Moniker">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/alexmg">@alexmg</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Moniker.Cli/">moniker.cli</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>nanoff</code></td>
       <td>
         <p>
