@@ -1638,6 +1638,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>orang</code></td>
+      <td>
+        <p>
+          Search, replace, rename and delete directories, files and its content using the power of .NET regular expressions.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/josefpihrt/orang">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/josefpihrt">@JosefPihrt</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/orang.dotnet.cli">orang.dotnet.cli</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>otterkeys</code></td>
       <td>
         <p>
