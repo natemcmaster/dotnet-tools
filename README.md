@@ -136,6 +136,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>benchmark</code></td>
+      <td>
+        <p>
+          Provides a convenient way to execute your benchmark(s) from the command line interface.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/dotnet/BenchmarkDotNet">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/dotnet/BenchmarkDotNet">.NET Foundation and contributors</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/BenchmarkDotNet.Tool">BenchmarkDotNet.Tool</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>boots</code></td>
       <td>
         <p>
