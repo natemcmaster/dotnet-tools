@@ -1863,6 +1863,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>ssllabs-check</code></td>
+      <td>
+        <p>
+          Tool that will check ssllabs score api and cert expiration when provided a list of hosts.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/ekonbenefits/dotnet-ssllabs-check">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/jbtule">@jbtule</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-ssllabs-check">dotnet-ssllabs-check</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>sysinfo</code></td>
       <td>
         <p>
