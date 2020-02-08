@@ -2049,6 +2049,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>xamarin-android-binderator</code></td>
+      <td>
+        <p>
+          An engine to generate Xamarin Binding projects from Maven repositories with a JSON config and razor templates.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Redth/Xamarin.AndroidBinderator">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/Redth">@Redth</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Xamarin.AndroidBinderator.Tool/">Xamarin.AndroidBinderator.Tool</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>xscgen</code></td>
       <td>
         <p>
