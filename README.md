@@ -426,6 +426,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-cs2ts</code></td>
+      <td>
+        <p>
+          Convert C# Models, ViewModels and DTOs into their TypeScript equivalents.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/AdrianWilczynski/CSharpToTypeScript">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/AdrianWilczynski">@AdrianWilczynski</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CSharpToTypeScript.CLITool">CSharpToTypeScript.CLITool</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-dbinfo</code></td>
       <td>
         <p>
