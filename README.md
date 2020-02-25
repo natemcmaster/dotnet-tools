@@ -2035,6 +2035,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>webtty</code></td>
+      <td>
+        <p>
+          Simple command-line tool for sharing a terminal over the web.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nickvdyck/webtty">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/nickvdyck">@nickvdyck</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/webtty/">webtty</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>weeknumber</code></td>
       <td>
         <p>
