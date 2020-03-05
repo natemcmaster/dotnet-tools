@@ -1398,7 +1398,21 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/json2yaml/">json2yaml</a></code>
       </td>
-    </tr>
+    </tr>	  
+    <tr>
+      <td><code>Kentico.Kontent.ModelGenerator</code></td>
+      <td>
+        <p>
+          POCO model generator for Kentico Kontent.
+        </p>
+        <p>		
+          <strong>Project site:</strong> <a href="https://github.com/Kentico/kontent-generators-net">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/kentico">@kentico</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Kentico.Kontent.ModelGenerator/">Kentico.Kontent.ModelGenerator</a></code>
+      </td>
+    </tr>    
     <tr>
       <td><code>kubedmc</code></td>
       <td>
