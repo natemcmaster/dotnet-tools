@@ -2143,7 +2143,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/natemcmaster">@natemcmaster</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.myget.org/feed/natemcmaster/package/nuget/xunit-cli">xunit-cli</a> --add-source https://www.myget.org/F/natemcmaster/api/v3/index.json</code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/xunit-cli">xunit-cli</a></code>
       </td>
     </tr>
   </tbody>
