@@ -791,6 +791,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-property">dotnet-property</a></code>
       </td>
     </tr>
+   <tr>
+      <td><code>dotnet-readbin</code></td>
+      <td>
+        <p>
+          A .NET Core global tool to convert encoded or serialized data to human-readable format. 
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/alphacloud/dotnet-readbin">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/alphacloud">@shatl</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-readbin">dotnet-toast</a></code>
+      </td>
+    </tr>
     <tr>
       <td><code>dotnet-retire</code></td>
       <td>
