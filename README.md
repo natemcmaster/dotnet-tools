@@ -1877,6 +1877,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>snitch</code></td>
+      <td>
+        <p>
+          A tool that help you find transitive package references that can be removed.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/spectresystems/snitch">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/spectresystems">@Spectre Systems AB</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Snitch/">Snitch</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>speech</code></td>
       <td>
         <p>
