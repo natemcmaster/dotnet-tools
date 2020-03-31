@@ -60,6 +60,7 @@ Name | Description
 [dotnet-unpkg](https://github.com/rendlelabs/dotnet-unpkg) | A tool to install front-end packages from [unpkg.com](https://unpkg.com) with no need for Node.js/NPM/Yarn/whatever. [NuGet](https://www.nuget.org/packages/RendleLabs.UnpkgCli)
 [dotnet-web-compile](https://github.com/sgjsakura/DotNetCore-WebCompiler) | A tool to compile client web files (e.g. SCSS, TS, etc). [NuGet](https://www.nuget.org/packages/Sakura.AspNetCore.Tools.WebCompiler/)
 [dotnet-xunit](https://github.com/xunit/xunit) | A command-line runner for xunit.  [NuGet](https://www.nuget.org/packages/dotnet-xunit)
+[dotnet-exec](https://github.com/ivanparvaresh/dotnet-exec) | A console tool for running custom commands.  [NuGet](https://www.nuget.org/packages/dotnet-tool-exec/)
 
 **Special mention**
 These tools area available as packages for .NET Core CLI 1.x or 2.0. In the 2.1 CLI, these were made part of the CLI and do not
