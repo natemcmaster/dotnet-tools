@@ -2185,7 +2185,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/ivanparvaresh">@ivanparvaresh</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/xunit-cli">dotnet-tool-exec</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-tool-exec/">dotnet-tool-exec</a></code>
       </td>
     </tr>
   </tbody>
