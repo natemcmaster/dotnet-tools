@@ -511,7 +511,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>dotnet-exec</code></td>
+      <td><code>execute</code></td>
       <td>
         <p>
           Console tool for running custom commands
