@@ -511,20 +511,6 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
-      <td><code>execute</code></td>
-      <td>
-        <p>
-          Console tool for running custom commands
-        </p>
-        <p>
-          <strong>Project site:</strong> <a href="https://github.com/ivanparvaresh/dotnet-exec">GitHub</a>
-          <br />
-          <strong>Author:</strong> <a href="https://github.com/ivanparvaresh">@ivanparvaresh</a>
-        </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-tool-exec/">dotnet-tool-exec</a></code>
-      </td>
-    </tr>
-    <tr>
       <td><code>dotnet-fm</code></td>
       <td>
         <p>
@@ -1118,6 +1104,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/loresoft">@pwelter34</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/EntityFrameworkCore.Generator">EntityFrameworkCore.Generator</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>execute</code></td>
+      <td>
+        <p>
+          Console tool for running custom commands
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/ivanparvaresh/dotnet-exec">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/ivanparvaresh">@ivanparvaresh</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-tool-exec/">dotnet-tool-exec</a></code>
       </td>
     </tr>
     <tr>
