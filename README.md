@@ -904,6 +904,21 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-signtool</code></td>
+      <td>
+        <p>
+          A tool for strong-name keys and signing of assemblies. 
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/AppCoreNet/SigningTool">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/AppCoreNet">@AppCoreNet</a>
+        </p>
+        <code>dotnet tool install --g <a href="https://www.nuget.org/packages/AppCore.SigningTool/">AppCore.SigningTool</a></code>
+      </td>
+    </tr>
+    
+    <tr>
       <td><code>dotnet-snow</code></td>
       <td>
         <p>
