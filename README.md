@@ -1022,6 +1022,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-updatealltools</code></td>
+      <td>
+        <p>
+          The dotnet tool that can update all dotnet tools.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/dotnet-campus/dotnetCampus.UpdateAllDotNetTools">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/lindexi">@lindexi</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnetCampus.UpdateAllDotNetTools">dotnetCampus.UpdateAllDotNetTools</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-ups</code></td>
       <td>
         <p>
