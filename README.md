@@ -1598,6 +1598,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>ncbeauty</code></td>
+      <td>
+        <p>
+          Move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nulastudio/NetCoreBeauty">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/liesauer">@LiesAuer</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/nulastudio.ncbeauty/">nulastudio.ncbeauty</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>ndjson</code></td>
       <td>
         <p>
