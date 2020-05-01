@@ -66,6 +66,34 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>assembly-differ</code></td>
+      <td>
+        <p>
+          Compare and Diff assemblies from different sources (inluding NuGet). Useful for determining what changes are introduced across versions, and if any are breaking.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nullean/assembly-differ">GitHub</a>
+          <br />
+          <strong>Authors:</strong> <a href="https://github.com/orgs/nullean/people">Nullean commiters</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/assembly-differ/">assembly-differ</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>assembly-rewriter</code></td>
+      <td>
+        <p>
+          Rewrites .NET assemblies with Mono.Cecil, to allow two different versions of the same assembly to be referenced within an application.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nullean/assembly-rewriter">GitHub</a>
+          <br />
+          <strong>Authors:</strong> <a href="https://github.com/orgs/nullean/people">Nullean commiters</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/assembly-rewriter/">assembly-rewriter</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>autocommit</code></td>
       <td>
         <p>
