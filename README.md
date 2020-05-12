@@ -830,7 +830,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <br />
           <strong>Author:</strong> <a href="https://github.com/alphacloud">@shatl</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-readbin">dotnet-toast</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-readbin">dotnet-readbin</a></code>
       </td>
     </tr>
     <tr>
