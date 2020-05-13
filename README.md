@@ -776,7 +776,7 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       <td>
         <p>
           A .NET Core global tool to display outdated NuGet packages in a project.
-        </p>          
+        </p>
         <p>
 	  <strong>Project site:</strong> <a href="https://github.com/jerriep/dotnet-outdated">GitHub</a>
           <br />
