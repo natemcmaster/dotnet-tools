@@ -1165,6 +1165,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>exceldna-unpack</code></td>
+      <td>
+        <p>
+          Extract (unpack) the contents of Excel-DNA add-ins that have been packed with ExcelDnaPack, including .NET assemblies
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/augustoproiete/exceldna-unpack">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/augustoproiete">@augustoproiete</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/exceldna-unpack/">exceldna-unpack</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>execute</code></td>
       <td>
         <p>
