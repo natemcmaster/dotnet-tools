@@ -977,6 +977,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-sort-refs</code></td>
+      <td>
+        <p>
+          A tool to alphabetically sort package references in .NET projects. Also can be incluced in build pipeline to run checks.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/mysticmind/dotnet-sort-refs">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/mysticmind">@mysticmind</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-sort-refs">dotnet-sort-refs</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-sqldb</code></td>
       <td>
         <p>
