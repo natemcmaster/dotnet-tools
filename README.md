@@ -1556,6 +1556,21 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>LiveReloadServer</code></td>
+      <td>
+        <p>
+          A self-contained, generic, local Web Server that you can use to serve Web content from with optional support for Live Reload functionality for refreshing the site on content changes. Just point the tool at a folder and go. Also supports loose Razor Pages and has built-in Markdown document serving support.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/RickStrahl/Westwind.AspnetCore.LiveReload/tree/master/LiveReloadServer">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rickstrahl">@rickstrahl</a>
+        </p>
+        <code>dotnet tool install -g         <a href="https://www.nuget.org/packages/LiveReloadServer/">LiveReloadServer</a></code>
+        <br />
+      </td>
+    </tr>	  
+    <tr>
       <td><code>LocalAppVeyor</code></td>
       <td>
         <p>
