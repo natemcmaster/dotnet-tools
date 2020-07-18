@@ -1430,6 +1430,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>helveg</code></td>
+      <td>
+        <p>
+          A software visualization tool. It turns projects into islands and classes into trees. It also sets the trees on fire if there are errors in them.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://gitlab.com/helveg/helveg">GitLab</a>
+          <br />
+          <strong>Author:</strong> <a href="https://gitlab.com/cafstep">@cafstep</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/helveg/">helveg</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>html-copy-vscode</code></td>
       <td>
         <p>
