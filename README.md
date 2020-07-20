@@ -426,6 +426,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-config</code></td>
+      <td>
+        <p>
+          A global tool for managing hierarchical configurations for dotnet tools, using git config format.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/kzu/dotnet-config">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/kzu/">@kzu</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-config/">dotnet-config</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-config2json</code></td>
       <td>
         <p>
@@ -536,6 +550,18 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
           <strong>Author:</strong> <a href="https://github.com/tomchavakis">@tomchavakis</a>
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-encrypto">dotnet-encrypto</a></code>
+      </td>
+    </tr>
+    <tr>
+      <td><code>dotnet-file</code></td>
+      <td>
+        <p>A dotnet global tool for downloading and updating loose files from arbitrary URLs.</p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/kzu/dotnet-file">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/kzu">@kzu</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-file">dotnet-file</a></code>
       </td>
     </tr>
     <tr>
@@ -2233,6 +2259,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-versioninfo/">dotnet-versioninfo</a></code>
       </td>
     </tr>
+    <tr>
+      <td><code>vs</code></td>
+      <td>
+        <p>
+          A global tool for managing Visual Studio installations.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/kzu/dotnet-vs">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/kzu/">@kzu</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-vs/">dotnet-vs</a></code>
+      </td>
+    </tr>	  
     <tr>
       <td><code>webtty</code></td>
       <td>
