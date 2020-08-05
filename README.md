@@ -2046,6 +2046,20 @@ A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Cor
       </td>
     </tr>
     <tr>
+      <td><code>skynet-cli</code></td>
+      <td>
+        <p>
+          A command line tool for uploading files to Sia Skynet.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/drmathias/skynet-cli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/drmathias">@drmathias</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/skynet-cli/">skynet-cli</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>sleet</code></td>
       <td>
         <p>
