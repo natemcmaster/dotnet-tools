@@ -2,6 +2,17 @@
 
 A list of tool extensions for .NET Core Command Line (dotnet CLI), aka '.NET Core global tools'.
 
+## New!
+
+NuGet.org now supports searching by package type. Find the complete list .NET tools here:
+
+<a href="https://www.nuget.org/packages?packagetype=dotnettool" class="btn btn-primary btn-large">Go to .NET tools on NuGet.org</a>
+
+## Unofficial list
+
+The following list was created by users like you. Feel free to add yours. The presence of a tool in this list is not a recommendation of its quality or reliability.
+
+
 > **Tip:** :bulb:
 > Global tools do not need to be named "dotnet-*". This is only a convention used by some authors as a way to indicate a package is meant to be used as part of the `dotnet` command line tool, and not a standalone tool or library reference.
 
