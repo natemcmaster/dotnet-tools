@@ -1973,6 +1973,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>RendleLabs.NukeFromOrbit</code></td>
+      <td>
+        <p>
+          Adds a `nuke-from-orbit` command that deletes all `bin` and `obj` directories from a solution, for times when it's the only way to be sure.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/RendleLabs/NukeFromOrbit/">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/markrendle">@markrendle</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/RendleLabs.NukeFromOrbit">RendleLabs.NukeFromOrbit</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>reportgenerator</code></td>
       <td>
         <p>
