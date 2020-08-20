@@ -2410,6 +2410,20 @@ The following list was created by users like you. Feel free to add yours. The pr
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/xunit-cli">xunit-cli</a></code>
       </td>
     </tr>
+    <tr>
+      <td><code>yamlizr</code></td>
+      <td>
+        <p>
+          Generate Azure Pipelines YAML and GitHub Actions YAML from Azure DevOps Classic Build/Release definitions.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/f2calv/yamlizr">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/f2calv">@f2calv</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/yamlizr">yamlizr</a></code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
