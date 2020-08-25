@@ -291,6 +291,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>CycloneDX</code></td>
+      <td>
+        <p>
+          Creates CycloneDX Software Bill-of-Materials (SBOM) from .NET Projects
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/CycloneDX/cyclonedx-dotnet">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/stevespringett">@stevespringett</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/CycloneDX/">CycloneDX</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dacpac</code></td>
       <td>
         <p>
