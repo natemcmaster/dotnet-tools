@@ -826,14 +826,14 @@ The following list was created by users like you. Feel free to add yours. The pr
       <td><code>dotnet-outdated</code></td>
       <td>
         <p>
-          A .NET Core global tool to display outdated NuGet packages in a project.
+          A .NET Core global tool to display and update outdated NuGet packages in a project.
         </p>
         <p>
-          <strong>Project site:</strong> <a href="https://github.com/jerriep/dotnet-outdated">GitHub</a>
+          <strong>Project site:</strong> <a href="https://github.com/dotnet-outdated/dotnet-outdated">GitHub</a>
           <br />
-          <strong>Author:</strong> <a href="https://github.com/jerriep">@jerriep</a>
+          <strong>Author:</strong> <a href="https://github.com/orgs/dotnet-outdated/people">dotnet-outdated team</a> & <a href="https://github.com/dotnet-outdated/dotnet-outdated/graphs/contributors">contributors</a>
         </p>
-        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-outdated/">dotnet-outdated</a></code>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-outdated-tool/">dotnet-outdated-tool</a></code>
       </td>
     </tr>
     <tr>
