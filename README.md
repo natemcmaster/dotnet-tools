@@ -246,6 +246,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>codeconv</code></td>
+      <td>
+        <p>
+          Codeconv converts code from VB.NET to C# (and vice versa)
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/icsharpcode/CodeConverter">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/icsharpcode/">@icsharpcode</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/ICSharpCode.CodeConverter.CodeConv/">ICSharpCode.CodeConverter.CodeConv</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>coverlet</code></td>
       <td>
         <p>
