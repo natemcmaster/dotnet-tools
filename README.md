@@ -2141,6 +2141,18 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>specsync</code></td>
+      <td>
+        <p>
+          SpecSync for Azure DevOps is a synchronization tool that synchronizes BDD Gherkin feature files with Azure DevOps (TFS/VSTS).
+        </p>
+        <p>
+          <strong>Author:</strong> <a href="https://github.com/gasparnagy">@gasparnagy</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/SpecSync.AzureDevOps">SpecSync.AzureDevOps</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>speech</code></td>
       <td>
         <p>
