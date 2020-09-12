@@ -203,6 +203,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>bruce</code></td>
+      <td>
+        <p>
+          A Command Line Kerberos .NET Management Tool.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/dotnet/kerberos.net">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://syfuhs.net/">@SteveSyfuhs</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/bruce/">bruce</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>certdump</code></td>
       <td>
         <p>
