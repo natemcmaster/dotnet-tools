@@ -915,7 +915,7 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
-      <td><code>references</code></td>
+      <td><code>dotnet-references</code></td>
       <td>
         <p>
           Aids with bulk solution and project file references changes and related directory organisation. Particularly useful when used in docker builds to overcome COPY globbing limitations as described [here](https://github.com/benmccallum/dotnet-references/blob/master/docs/Dockerfile-use-case.md). 
