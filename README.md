@@ -915,6 +915,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-references</code></td>
+      <td>
+        <p>
+          Aids with bulk solution and project file references changes and related directory organisation. Particularly useful when used in docker builds to overcome COPY globbing limitations as described <a href="https://github.com/benmccallum/dotnet-references/blob/master/docs/Dockerfile-use-case.md">here</a>. 
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/benmccallum/dotnet-references">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/benmccallum">@benmccallum</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-references/">dotnet-references</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-retire</code></td>
       <td>
         <p>
