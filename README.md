@@ -1633,7 +1633,21 @@ The following list was created by users like you. Feel free to add yours. The pr
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Kentico.Kontent.ModelGenerator/">Kentico.Kontent.ModelGenerator</a></code>
       </td>
-    </tr>    
+    </tr>
+    <tr>
+      <td><code>kryptos</code></td>
+      <td>
+        <p>
+          A .NET core tool for cryptography. Decode JWT tokens, generate file hashes with this cross platform CLI tool.
+        </p>
+        <p>		
+          <strong>Project site:</strong> <a href="https://github.com/vijayshinva/kryptos">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/vijayshinva">@vijayshinva</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Kryptos/">Kryptos</a></code>
+      </td>
+    </tr>     
     <tr>
       <td><code>kubedmc</code></td>
       <td>
