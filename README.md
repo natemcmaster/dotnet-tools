@@ -479,6 +479,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-combine</code></td>
+      <td>
+        <p>
+          A tool that allows you to combine multiple C# source files into a single one, create a .zip with multiple files, etc.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/eduherminio/dotnet-combine">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/eduherminio">@eduherminio</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-combine/">dotnet-combine</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-config</code></td>
       <td>
         <p>
