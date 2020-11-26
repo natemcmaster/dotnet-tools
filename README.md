@@ -521,6 +521,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+        <td><code>dotnet-coverageconverter</code></td>
+        <td>
+          <p>
+            Convert `.coverage` files to `.coveragexml` files to support SonarCloud Code Coverage when using **VSTest@2**.
+          </p>
+          <p>
+            <strong>Project site:</strong> <a href="https://github.com/StefH/CoverageConverter">GitHub</a>
+            <br />
+            <strong>Author:</strong> <a href="https://github.com/StefH">@StefH</a>
+          </p>
+          <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-coverageconverter/">dotnet-coverageconverter</a></code>
+        </td>
+    </tr>
+    <tr>
       <td><code>dotnet-cowsay</code></td>
       <td>
         <p>
@@ -1241,6 +1255,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+        <td><code>dotnet-wiremock</code></td>
+        <td>
+          <p>
+            WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating.
+          </p>
+          <p>
+            <strong>Project site:</strong> <a href="https://github.com/WireMock-Net/WireMock.Net">GitHub</a>
+            <br />
+            <strong>Author:</strong> <a href="https://github.com/StefH">@StefH</a>
+          </p>
+          <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-wiremock/">dotnet-wiremock</a></code>
+        </td>
+      </tr>
+    <tr>
       <td><code>dotnet-xdt</code></td>
       <td>
         <p>
@@ -1507,6 +1535,20 @@ The following list was created by users like you. Feel free to add yours. The pr
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/MarkdownSnippets.Tool/">MarkdownSnippets.Tool</a></code>
       </td>
+    </tr>
+    <tr>
+        <td><code>GitHubReleaseNotes</code></td>
+        <td>
+          <p>
+            Generate Release Notes in markdown format from GitHub projects.
+          </p>
+          <p>
+            <strong>Project site:</strong> <a href="https://github.com/StefH/GitHubReleaseNotes">GitHub</a>
+            <br />
+            <strong>Author:</strong> <a href="https://github.com/StefH">@StefH</a>
+          </p>
+          <code>dotnet tool install -g <a href="https://www.nuget.org/packages/GitHubReleaseNotes">GitHubReleaseNotes</a></code>
+        </td>
     </tr>
     <tr>
       <td><code>gti</code></td>
