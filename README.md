@@ -133,6 +133,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>az-lazy</code></td>
+      <td>
+        <p>
+          Az Lazy CLI tool is designed for developers, it provides a command-line interface to quickly manage and make changes to azure storage queues, blobs and tables. 
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/faesel/az-lazy">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/faesel/">@faesel</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/az-lazy/">az-lazy</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>azure-boards-workitems</code></td>
       <td>
         <p>
