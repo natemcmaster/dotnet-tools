@@ -53,7 +53,7 @@ Name | Description
 [dotnet-publish-ssh](https://github.com/albekov/dotnet-publish-ssh) | DotnetPublishSsh is a a tool to publish your .NET Core application to Linux server via SSH. [NuGet](https://www.nuget.org/packages/DotnetPublishSsh/)
 [dotnet-swashbuckle](https://github.com/geeklearningio/gl-swashbuckle) | Swashbuckle extensions to add examples and security requirements in the generated Swagger file. [NuGet](https://www.nuget.org/packages/GeekLearning.DotNet.Swashbuckle)
 [dotnet-tinify](https://github.com/andrewlock/dotnet-tinify) | A tool for squashing PNG and JPEG files using the [TinyPNG API](https://tinypng.com/developers). [NuGet](https://www.nuget.org/packages/dotnet-tinify/)
-[dotnet-tools-outdated](https://github.com/rychlym/dotnet-tools-outdated) | Checks whether any of currently installed global tools is outdated.. [NuGet](https://www.nuget.org/packages/dotnet-tools-outdated/)
+[dotnet-tools-outdated](https://github.com/rychlym/dotnet-tools-outdated) | Checks whether any of currently installed global tools is outdated. [NuGet](https://www.nuget.org/packages/dotnet-tools-outdated/)
 [dotnet-transform-xdt](https://github.com/nil4/dotnet-transform-xdt) | XDT (XML Document Transform) publish tool for transforming XML files at publishing time. [NuGet](https://www.nuget.org/packages/Microsoft.DotNet.Xdt.Tools)
 [dotnet-tsd](https://github.com/originalmoose/Typescript.Definitions.Tools) | Typescript.Definitions.Tools is a helper library to generate typescript definition files and typescript files from c# code. [NuGet](https://www.nuget.org/packages/Typescript.Definitions.Tools/)
 [dotnet-t4-project-tool](https://github.com/mono/t4) | T4 text template processor. Project tool version of the `dotnet-t4` global tool package.

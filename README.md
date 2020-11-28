@@ -1194,6 +1194,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-tools-outdated</code></td>
+      <td>
+        <p>
+          A .NET Global Tool to check whether any of currently installed global tools is outdated.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://dotnet.microsoft.com/platform/try-dotnet">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/rychlym">@rychlym</a>
+        </p>
+        <code>dotnet tool install --global <a href="https://www.nuget.org/packages/dotnet-tools-outdated/">dotnet-tools-outdated</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-try</code></td>
       <td>
         <p>
