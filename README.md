@@ -2479,7 +2479,7 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
-      <td><code>weathercli</code></td>
+      <td><code>weather</code></td>
       <td>
         <p>
           Simple command-line tool for showing the current weather in your terminal
