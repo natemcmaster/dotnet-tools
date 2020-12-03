@@ -2477,6 +2477,20 @@ The following list was created by users like you. Feel free to add yours. The pr
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-vs/">dotnet-vs</a></code>
       </td>
+    </tr>
+    <tr>
+      <td><code>weather</code></td>
+      <td>
+        <p>
+          Simple command-line tool for showing the current weather in your terminal
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/TheDayIsMyEnemy/WeatherCli">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/TheDayIsMyEnemy">@TheDayIsMyEnemy</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/weathercli/">weathercli</a></code>
+      </td>
     </tr>	  
     <tr>
       <td><code>webtty</code></td>
