@@ -147,6 +147,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>azcosmoscopy</code></td>
+      <td>
+        <p>
+          Simple CLI application which copies azure cosmos DB database to same or different cosmos account.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/wivuu/Wivuu.AzCosmosCopy">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/onionhammer/">@onionhammer</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzCosmosCopy/">azcosmoscopy</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>azure-boards-workitems</code></td>
       <td>
         <p>
