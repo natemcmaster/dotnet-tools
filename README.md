@@ -2435,6 +2435,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>update-version</code></td>
+      <td>
+        <p>
+	   A developper tool to update the Visual Studio project versions.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Monbsoft/UpdateVersion">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/oliver254">@oliver254</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Monbsoft.UpdateVersion/">Monbsoft.UpdateVersion</a></code>
+      </td>
+    </tr>	  
+    <tr>
       <td><code>upforgrabs</code></td>
       <td>
         <p>
