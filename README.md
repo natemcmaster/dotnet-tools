@@ -2438,7 +2438,7 @@ The following list was created by users like you. Feel free to add yours. The pr
       <td><code>update-version</code></td>
       <td>
         <p>
-	   A developper tool to update the Visual Studio project versions.
+	   A developer tool to update the Visual Studio project versions.
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/Monbsoft/UpdateVersion">GitHub</a>
