@@ -147,6 +147,21 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>aztbu</code></td>
+      <td>
+        <p>
+          AZTBU includes a number of functions for working with Azure Tables including the ability to backup, restore, copy and delete entries. 
+          The base functions are available as a separate NuGet package which can be embedded in your own projects, or can be used under this simple command line implementation.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/TheByteStuff/AzureTableBackupRestore">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/TheByteStuff/">@TheByteStuff</a>          
+        </p>
+				<code>dotnet tool install -g <a href="https://www.nuget.org/packages/TheByteStuff.AzureTableUtilitiesCommandLine /">TheByteStuff.AzureTableUtilitiesCommandLine</a></code>
+      </td>
+    </tr>    
+    <tr>
       <td><code>azure-boards-workitems</code></td>
       <td>
         <p>
