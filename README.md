@@ -147,6 +147,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>azcosmoscopy</code></td>
+      <td>
+        <p>
+          Simple CLI application which copies azure cosmos DB database to same or different cosmos account.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/wivuu/Wivuu.AzCosmosCopy">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/onionhammer/">@onionhammer</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/AzCosmosCopy/">azcosmoscopy</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>aztbu</code></td>
       <td>
         <p>
@@ -2449,6 +2463,20 @@ The following list was created by users like you. Feel free to add yours. The pr
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/RendleLabs.UnpkgCli">RendleLabs.UnpkgCli</a></code>
       </td>
     </tr>
+    <tr>
+      <td><code>update-version</code></td>
+      <td>
+        <p>
+	   A developer tool to update the Visual Studio project versions.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/Monbsoft/UpdateVersion">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/oliver254">@oliver254</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Monbsoft.UpdateVersion/">Monbsoft.UpdateVersion</a></code>
+      </td>
+    </tr>	  
     <tr>
       <td><code>upforgrabs</code></td>
       <td>
