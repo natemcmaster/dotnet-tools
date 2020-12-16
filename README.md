@@ -492,7 +492,21 @@ The following list was created by users like you. Feel free to add yours. The pr
         </p>
         <code>dotnet tool install -g <a href="https://www.nuget.org/packages/Apim.DevOps.Toolkit/">Apim.DevOps.Toolkit</a></code>
       </td>
-    </tr>	  
+    </tr>
+    <tr>
+      <td><code>dotnet-args</code></td>
+      <td>
+        <p>
+          A cross-platform dotnet tool that prints the command-line arguments it receives, to help debug scripts and apps.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/augustoproiete/dotnet-args">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/augustoproiete">@augustoproiete</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-args/">dotnet-args</a></code>
+      </td>
+    </tr>
     <tr>
       <td><code>dotnet-aspnet-codegenerator</code></td>
       <td>
