@@ -691,6 +691,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-extract</code></td>
+      <td>
+        <p>
+          A .NET global tool to extract embedded resource files.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/HamedFathi/EmbeddedResourceExtractor">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/HamedFathi">@HamedFathi</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-extract">dotnet-extract</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-file</code></td>
       <td>
         <p>A dotnet global tool for downloading and updating loose files from arbitrary URLs.</p>
