@@ -1251,6 +1251,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-tool-run</code></td>
+      <td>
+        <p>
+          A simple .NET tool to execute other dotnet tools without installing them globally or in a project.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/piraces/dotnet-tool-run">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/piraces">@piraces</a>
+        </p>
+        <code>dotnet tool install --global <a href="https://www.nuget.org/packages/dotnet-tool-run/">dotnet-tool-run</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-tools-outdated</code></td>
       <td>
         <p>
