@@ -697,7 +697,7 @@ The following list was created by users like you. Feel free to add yours. The pr
           A .NET global tool to extract embedded resource files.
         </p>
         <p>
-          <strong>Project site:</strong> <a href="https://github.com/HamedFathi/EmbeddedResourceExtractor">GitHub</a>
+          <strong>Project site:</strong> <a href="https://github.com/dotnet-toolbelt/dotnet-extract">GitHub</a>
           <br />
           <strong>Author:</strong> <a href="https://github.com/HamedFathi">@HamedFathi</a>
         </p>
