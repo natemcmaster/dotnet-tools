@@ -1255,8 +1255,8 @@ The following list was created by users like you. Feel free to add yours. The pr
       <td>
         <p>
           Manage your todo list using the command line syntax and text file format of 
-		  <a href-"http://todotxt.org/">http://todotxt.org/</a>. This port tries to remain faithful to the 
-		  command line and functionality of the original shell script wherever possible.
+          <a href-"http://todotxt.org/">http://todotxt.org/</a>. This port tries to remain faithful to the 
+          command line and functionality of the original shell script wherever possible.
         </p>
         <p>
           <strong>Project site:</strong> <a href="https://github.com/rprouse/dotnet-todo">GitHub</a>
