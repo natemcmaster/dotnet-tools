@@ -1722,6 +1722,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>ib</code></td>
+      <td>
+        <p>
+          Invoke-Build as the dotnet tool for running PowerShell build scripts.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/nightroman/Invoke-Build">GitHub</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/nightroman">@nightroman</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/ib/">ib</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>idgen</code></td>
       <td>
         <p>
