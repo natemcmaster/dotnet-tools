@@ -867,6 +867,20 @@ The following list was created by users like you. Feel free to add yours. The pr
       </td>
     </tr>
     <tr>
+      <td><code>dotnet-jwk</code></td>
+      <td>
+        <p>
+          Tools for JSON Web Key (JWK). Provides capabilities for key generation, key encryption, key decryption, key conversion (from X509 & PEM), and key verification.
+        </p>
+        <p>
+          <strong>Project site:</strong> <a href="https://github.com/uruk-project/dotnet-jwk">Github</a>
+          <br />
+          <strong>Author:</strong> <a href="https://github.com/ycrumeyrolle">@ycrumeyrolle</a>
+        </p>
+        <code>dotnet tool install -g <a href="https://www.nuget.org/packages/dotnet-jwk/">dotnet-jwk</a></code>
+      </td>
+    </tr>
+    <tr>
       <td><code>dotnet-lambda</code></td>
       <td>
         <p>
